@@ -1,0 +1,36 @@
+[$Version]
+update_info=ksmserver.upd:kde3
+
+[General]
+screenCount=1
+
+[LegacySession: saved at previous logout]
+clientMachine1=localhost
+clientMachine2=localhost
+command1=xterm,-geometry,80x24+10+10,-ls,-title,dunegpvm01.fnal.gov:60 (soughton) Desktop
+command2=emacs
+count=2
+
+[Session: saved at previous logout]
+clientId1=101d01e61f4166000146979865500000273480000
+clientId2=101d01e61f4166000146980160100000273480006
+clientId3=101d01e61f4166000147038674100000273480014
+count=3
+discardCommand1[$e]=rm,$HOME/.kde/share/config/session/kwin_101d01e61f4166000146979865500000273480000_1470650157_655275
+discardCommand2[$e]=rm,$HOME/.kde/share/config/session/konsole_101d01e61f4166000146980160100000273480006_1470650147_550185
+discardCommand3[$e]=
+program1=kwin
+program2=konsole
+program3=emacs
+restartCommand1=kwin,-session,101d01e61f4166000146979865500000273480000_1470650157_655275
+restartCommand2=konsole,-session,101d01e61f4166000146980160100000273480006_1470650147_550185
+restartCommand3=/usr/bin/emacs,--smid=101d01e61f4166000147038674100000273480014,--no-splash
+restartStyleHint1=0
+restartStyleHint2=0
+restartStyleHint3=0
+userId1=soughton
+userId2=soughton
+userId3=soughton
+wasWm1=true
+wasWm2=false
+wasWm3=false

@@ -1,0 +1,119 @@
+_XSERVTransmkdir: Owner of /tmp/.X11-unix should be set to root
+
+Xvnc TigerVNC 1.1.0 - built Mar 22 2017 15:56:21
+Copyright (C) 1999-2011 TigerVNC Team and many others (see README.txt)
+See http://www.tigervnc.org for information on TigerVNC.
+Underlying X server release 11704000, The X.Org Foundation
+
+
+Fri Aug 18 05:19:13 2017
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on all interface(s), port 5961
+ vncext:      created VNC server for screen 0
+starting kde
+startkde: Starting up...
+Connecting to deprecated signal QDBusConnectionInterface::serviceOwnerChanged(QString,QString,QString)
+kbuildsycoca4 running...
+Connecting to deprecated signal QDBusConnectionInterface::serviceOwnerChanged(QString,QString,QString)
+QDBusObjectPath: invalid path ""
+X Error: XSyncBadAlarm 135
+  Extension:    134 (Uknown extension)
+  Minor opcode: 11 (Unknown request)
+  Resource id:  0x3c
+X Error: XSyncBadAlarm 135
+  Extension:    134 (Uknown extension)
+  Minor opcode: 11 (Unknown request)
+  Resource id:  0x3c
+QDBusConnection: name 'org.kde.kglobalaccel' had owner '' but we thought it was ':1.5'
+<unknown program name>(22786)/ KStartupInfo::createNewStartupId: creating:  "dunegpvm01.fnal.gov;1503051557;974871;22786_TIME0" : "unnamed app"
+kephald starting up 
+XRANDR error base:  145 
+RRInput mask is set!! 
+RandRScreen::loadSettings - adding mode:  980 1920 x 1200 
+RandRScreen::loadSettings - adding mode:  981 1920 x 1080 
+RandRScreen::loadSettings - adding mode:  982 1600 x 1200 
+RandRScreen::loadSettings - adding mode:  983 1680 x 1050 
+RandRScreen::loadSettings - adding mode:  984 1400 x 1050 
+RandRScreen::loadSettings - adding mode:  985 1360 x 768 
+RandRScreen::loadSettings - adding mode:  986 1280 x 1024 
+RandRScreen::loadSettings - adding mode:  987 1280 x 960 
+RandRScreen::loadSettings - adding mode:  988 1280 x 800 
+RandRScreen::loadSettings - adding mode:  989 1280 x 720 
+RandRScreen::loadSettings - adding mode:  990 1024 x 768 
+RandRScreen::loadSettings - adding mode:  991 800 x 600 
+RandRScreen::loadSettings - adding mode:  992 640 x 480 
+RandRScreen::loadSettings - adding mode:  993 1800 x 950 
+RandRScreen::loadSettings - adding crtc:  978 
+RandRScreen::loadSettings - adding output:  979 
+Setting CRTC 978 on output "default" (previous 0 ) 
+CRTC outputs: (979) 
+Output name: "default" 
+Output refresh rate: 60 
+Output rect: QRect(0,0 1800x950) 
+Output rotation: 1 
+XRandROutputs::init 
+  added output  979 
+adding an output 0 with geom:  QRect(0,0 1800x950) 
+output: "SCREEN-0" QRect(0,0 1800x950) 1952543855 true true 
+load xml 
+connected: 1 
+looking for current "SCREEN-0" 
+known "*" has score: 0.125 
+screen: 0 QRect(0,0 1800x950) 
+looking for a matching configuration... 
+connected: 1 
+looking for current "SCREEN-0" 
+known "*" has score: 0.125 
+found outputs, known: false 
+activate external configuration!! 
+registered the service: true 
+screens registered on the bus: true 
+outputs registered on the bus: true 
+configurations registered on the bus: true 
+Connecting to deprecated signal QDBusConnectionInterface::serviceOwnerChanged(QString,QString,QString)
+Connecting to deprecated signal QDBusConnectionInterface::serviceOwnerChanged(QString,QString,QString)
+QDBusObjectPath: invalid path ""
+Connecting to deprecated signal QDBusConnectionInterface::serviceOwnerChanged(QString,QString,QString)
+QFont::setPointSize: Point size <= 0 (0), must be greater than 0
+QLayout: Attempting to add QLayout "" to QWidget "", which already has a layout
+QGraphicsLinearLayout::removeAt: invalid index 0
+QGraphicsLinearLayout::removeAt: invalid index 0
+Object::connect: No such slot TaskManager::GroupManager::taskDestroyed(QObject*)
+Object::connect: No such slot TaskManager::GroupManager::taskDestroyed(QObject*)
+Object::connect: No such signal SystemTray::Manager::jobStateChanged(SystemTray::Job*)
+Invalid D-BUS interface name 'org.kde.plasma-desktop.PlasmaApp' found while parsing introspection
+<unknown program name>(22813)/ kdemain: Xlib XKB extension major= 1  minor= 0
+Connecting to deprecated signal QDBusConnectionInterface::serviceOwnerChanged(QString,QString,QString)
+Object::connect: No such slot TaskManager::GroupManager::taskDestroyed(QObject*)
+Object::connect: No such slot TaskManager::GroupManager::taskDestroyed(QObject*)
+
+(polkit-gnome-authentication-agent-1:22826): polkit-gnome-1-WARNING **: Unable to determine the session we are in: Remote Exception invoking org.freedesktop.ConsoleKit.Manager.GetSessionForUnixProcess() on /org/freedesktop/ConsoleKit/Manager at name org.freedesktop.ConsoleKit: org.freedesktop.ConsoleKit.Manager.GeneralError: Unable to lookup session information for process '22826' org.freedesktop.ConsoleKit.Manager.GeneralError Unable%20to%20lookup%20session%20information%20for%20process%20%2722826%27
+
+(krb5-auth-dialog:22828): GLib-GObject-CRITICAL **: Object class GtkSecureEntry doesn't implement property 'editing-canceled' from interface 'GtkCellEditable'
+QDBusObjectPath: invalid path ""
+"/usr/bin/krunner(22819)" Error in thread 139710684993600 : "org.freedesktop.DBus.Error.ServiceUnknown - The name org.kde.nepomuk.services.nepomukstorage was not provided by any .service files"
+"/usr/bin/krunner(22819)" Error in thread 139710684993600 : "QLocalSocket::connectToServer: Invalid name"
+Connecting to deprecated signal QDBusConnectionInterface::serviceOwnerChanged(QString,QString,QString)
+"Warning: You do not seem to have the package gstreamer0.10-plugins-good installed.
+          Some video features have been disabled." 
+Object::connect: No such slot TaskManager::GroupManager::taskDestroyed(QObject*)
+Object::connect: No such slot TaskManager::GroupManager::taskDestroyed(QObject*)
+Object::connect: No such slot TaskManager::GroupManager::taskDestroyed(QObject*)
+<unknown program name>(22786)/ KStartupInfo::createNewStartupId: creating:  "dunegpvm01.fnal.gov;1503568960;977254;22786_TIME0" : "unnamed app"
+kbuildsycoca4 running...
+<unknown program name>(22786)/ KStartupInfo::createNewStartupId: creating:  "dunegpvm01.fnal.gov;1503568975;471704;22786_TIME0" : "unnamed app"
+kbuildsycoca4 running...
+_XSERVTransSocketINETGetPeerAddr: getpeername() failed: 107
+_XSERVTransSocketINETAccept: ...SocketINETGetPeerAddr() failed:
+_XSERVTransSocketINETGetPeerAddr: getpeername() failed: 107
+_XSERVTransSocketINETAccept: ...SocketINETGetPeerAddr() failed:
+_XSERVTransSocketINETGetPeerAddr: getpeername() failed: 107
+_XSERVTransSocketINETAccept: ...SocketINETGetPeerAddr() failed:
+_XSERVTransSocketINETGetPeerAddr: getpeername() failed: 107
+_XSERVTransSocketINETAccept: ...SocketINETGetPeerAddr() failed:
+_XSERVTransSocketINETGetPeerAddr: getpeername() failed: 107
+_XSERVTransSocketINETAccept: ...SocketINETGetPeerAddr() failed:
+_XSERVTransSocketINETGetPeerAddr: getpeername() failed: 107
+_XSERVTransSocketINETAccept: ...SocketINETGetPeerAddr() failed:
+_XSERVTransSocketINETGetPeerAddr: getpeername() failed: 107
+_XSERVTransSocketINETAccept: ...SocketINETGetPeerAddr() failed:

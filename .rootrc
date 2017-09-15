@@ -1,0 +1,5 @@
+Rint.Logon: $(HOME)/rootlogon.C
+Canvas.ShowEditor:	true
+Hist.Stats.RMS        Std. Dev.
+Hist.Stats.RMSX       Std. Dev. x
+Hist.Stats.RMSY       Std. Dev. y

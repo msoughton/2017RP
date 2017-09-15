@@ -1,0 +1,400 @@
+x-position of collection hit-29.7014
+x-position of collection hit-68.1385
+x-position of collection hit-180.942
+x-position of collection hit-6.19064
+x-position of collection hit-29.3811
+x-position of collection hit58.3486
+x-position of collection hit20.1537
+x-position of collection hit74.7025
+x
+x-position of collection hit121.474
+x-position of collection hit30.1935
+x-position of collection hit9.60688
+x-position of collection hit23.0191
+x-position of collection hit28.046
+x-position of collection hit65.0471
+x-position of collection hit103.194
+x-position of collection hit46.3584
+x-position of collection hit101.379
+x-position of collection hit61.8096
+x-position of collection hit35.7507
+x-position of collection hit51.7432
+x-position of collection hit56.7716
+x-position of collection hit137.124
+x-position of collection hit180.44
+x-position of collection hit137.107
+x-
+x-position of collection hit139.725
+x-position of collection hit139.562
+x-position of collection hit139.408
+x-
+x-position of collection hit128.002
+x-position of collection hit95.7834
+x-position of collection hit98.1958
+x-position of collection hit-102.633
+x-position of collection hit-96.9784
+x-position of collection hit-28.9017
+x-position of collection hit-103.218
+x-position of collection hit-36.320
+x-position of collection hit31.5914
+x-position of collection hit43.5552
+x-position of collection hit35.3412
+x-position of collection hit35.8308
+x-position of collection hit25.759
+x-position of collection hit116.61
+x-position of collection hit146.341
+x-position of collection hit180.43
+x-position of collection hit208.129
+x-position of collection hit138.38
+x-position of collection hit79.6906
+x-position of collection hit12.3183
+x
+x-position of collection hit31.4623
+x-position of collection hit55.9055
+x-position of collection hit49.9975
+SupernovaAna->Scan("xTruths:HitX")
+.ls
+supernovaana->cd()
+SupernovaAna->Scan("xTruths:HitX")
+.q
+.q
+TBrowser s
+.ls
+SupernovaAna->Draw("HitX")
+SupernovaAna->Draw("HitX")
+SupernovaAna->Draw("HitX","HitX>-10000")
+.q
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.L make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.L make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.q
+.x make_NTuple_plots_NHits.C("Supernova_radiological1_hist.root")
+.q
+.x make_NTuple_plots_NHits.C("Supernova__hist.root")
+.q
+.x make_NTuple_plots_NHits.C("Supernova_hist.root")
+.q
+.x make_NTuple_plots_NHits.C("Supernova_hist.root")
+.q
+.x make_NTuple_plots_NHits.C("Supernova_hist.root")
+.q
+.x make_NTuple_plots_NHits.C("Supernova_hist.root")
+.L make_NTuple_plots_NHits.C("Supernova_hist.root")
+.q
+.x make_NTuple_plots_NHits.C("Supernova_hist.root")
+.x make_NTuple_plots_NHits.C("Supernova_hist.root")
+.L make_NTuple_plots_NHits.C("Supernova_hist.root")
+.q
+.x make_NTuple_plots_NHits.C("Supernova_hist.root")
+.q
+.x make_NTuple_plots_NHits.C("Supernova_hist.root")
+.q
+.x make_NTuple_plots_NHits.C("Supernova_hist.root")
+.x make_NTuple_plots_NHits.C("/Supernova_hist.root")
+.q
+.x make_NTuple_plots_20_Nu.C("SupernovaAna_hist_radiological.root")
+.q
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist_radiological.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist_radiological.root")
+.x make_NTuple_plots_NHits.C()
+.L make_NTuple_plots_NHits.C()
+.L make_NTuple_plots_NHits.C
+.L make_NTuple_plots_NHits.C
+.L make_NTuple_plots_NHits.C
+.L make_NTuple_plots_NHits.C
+.x make_NTuple_plots_NHits.C
+.x make_NTuple_plots_NHits.C
+.L make_NTuple_plots_NHits.C
+.x make_NTuple_plots_NHits.C
+.q
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist_radiological.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist_radiological.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist_radiological.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist_radiological.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist_radiological.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.q
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist_radiological.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist_radiological.root")
+.q
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.q
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+TBrowser s
+TBrowser s
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.q
+TFile f("SupernovaAna_hist.root")
+f.ls()
+f.ls
+.ls()
+.ls
+supernovaana->cd()
+.ls
+TTree* T = (TTree*) f->Get("supernovaana/SupernovaAna")
+TTree* T = (TTree*) f.Get("supernovaana/SupernovaAna")
+T->GetEntries()
+double HitX
+T->SetBranchAddress("HitX",&HitX)
+T->GetEntry(0)
+.q
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.q
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.q
+TFile *_file0 = TFile::Open("SupernovaAna_hist.root")
+supernovaana->cd()
+.ls
+SupernovaAna->Print()
+.q
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.q
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.q
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.q
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.q
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.q
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+TFile *_file0 = TFile::Open("SupernovaAna_hist.root")
+supernovaana->cd()
+SupernovaAna->Print()
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+hPlot2->GetXAxis()->SetRangeUser(-100,100)
+hPlot2->GetXaxis()->SetRangeUser(-100,100)
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+hPlot2->GetXaxis()->SetRangeUser(-100,100)
+hPlot2->Update()
+hPlot2->Update()
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.q
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.q
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.q
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.q
+SuperNovaAna->Print()
+SupernovaAna->Print()
+SupernovaAna->Draw("xTruths")
+SupernovaAna->Draw("xTruths:yTruths")
+SupernovaAna->Draw("xTruths:yTruths","","*")
+SupernovaAna->Draw("xTruths:yTruths","","TProfile")
+SupernovaAna->Draw("HitTrueE:HitX","","TProfile")
+SupernovaAna->Draw("HitTrueE:HitX","HitXValid","TProfile")
+SupernovaAna->Draw("HitTrueE:HitX","HitTrueE>0","TProfile")
+SupernovaAna->Draw("xTruths")
+TH1D h1("h1","",20,-400,400)
+SupernovaAna->Draw("xTruths >> h1")
+h1.Draw()
+h1.SetLineWidth(4)
+h1.Draw()
+TProfile pf("pf","profile", 40, -400, 400)
+SupernovaAna->Draw("HitTrueE:HitX >> pf","HitTrueE>0","")
+pf.Draw()
+pf.GetXaxis()->SetTitle("Hit X (cm)")
+pf.Draw()
+.q
+.q
+.x make_NTuple_plots_NHits.C
+.q
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+TBrowser s
+360/6.7
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.q
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.q
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+TBrowser s
+.q
+TBrowser s
+.q
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.Q
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.q
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.q
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.q
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.q
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.q
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.q
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.q
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.q
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.q
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.q
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.q
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.q
+.x make_NTuple_plots_NHits.C("SupernovaAna_snb_nonoise_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_snb_nonoise_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_snb_nonoise_hist.root")
+.q
+.x make_NTuple_plots_NHits.C("SupernovaAna_radiological2_snb_nonoise_bkg_hist.root")
+.q
+.x make_NTuple_plots_NHits.C("SupernovaAna_radiological2_snb_nonoise_background_hist.root")
+.q
+.x make_NTuple_plots_NHits.C("SupernovaAna_snb_nonoise_hist.root")
+SupernovaAna->Print()
+.q
+.x make_NTuple_plots_NHits.C("SupernovaAna_snb_nonoise_hist.root")
+.q
+.x make_NTuple_plots_NHits.C("SupernovaAna_radiological2_snb_nonoise_background_hist.root")
+.clear()
+.q
+TBrowser sa
+.q
+.x make_NTuple_plots_NHits.C("SupernovaAna__hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.q
+TBrowser s
+.q
+TBrowser s
+.q
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.q
+.q
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.q
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.q
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.q
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.q
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.q
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.q
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.q
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.q
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.q
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.q
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.q
+.x make_NTuple_plots_NHits.C("SupernovaAna_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_radiological2_snb_nonoise_background_hist.root")
+.q
+.x make_NTuple_plots_NHits.C("SupernovaAna_radiological2_snb_nonoise_background_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_radiological2_snb_nonoise_background_hist.root")
+.x make_NTuple_plots_NHits.C(SupernovaAna_radiological2_snb_nonoise_background_hist.root")
+.q
+.x make_NTuple_plots_NHits.C("SupernovaAna_radiological2_snb_nonoise_background_hist.root")
+.q
+.L make_NTuple_plots_NHits.C("SupernovaAna_radiological2_snb_nonoise_background_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_radiological2_snb_nonoise_background_hist.root")
+.x make_NTuple_plots_NHits.C(SupernovaAna_radiological2_snb_nonoise_background_hist.root")
+.q
+.x make_NTuple_plots_NHits.C("SupernovaAna_radiological2_snb_nonoise_background_hist.root")
+.q
+.x make_NTuple_plots_NHits.C("SupernovaAna_radiological2_snb_nonoise_background_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_radiological2_snb_nonoise_background_hist.root")
+.x make_NTuple_plots_NHits.C("SupernovaAna_radiological2_snb_nonoise_background_hist.root")
+.q
+.x make_NTuple_plots_NHits.C("SupernovaAna_radiological2_snb_nonoise_background_hist.root")
+.q
+.x make_NTuple_plots_NHits.C("SupernovaAna_radiological2_snb_nonoise_background_hist.root")

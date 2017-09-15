@@ -1,0 +1,626 @@
+2016-07-12T04:07:06 Checking update-file '/usr/share/kde4/apps/kconf_update/mailtransports.upd' for new updates
+2016-07-12T04:07:06 mailtransports.upd: Found new update 'initial-kmail-migration'
+2016-07-12T04:07:06 mailtransports.upd: File 'kmailrc' does not exist or empty, skipping
+2016-07-12T04:07:06 mailtransports.upd: Found new update 'initial-knode-migration'
+2016-07-12T04:07:06 mailtransports.upd: File 'knoderc' does not exist or empty, skipping
+2016-07-12T04:07:06 Checking update-file '/usr/share/kde4/apps/kconf_update/plasma-to-plasmadesktop-shortcuts.upd' for new updates
+2016-07-12T04:07:06 plasma-to-plasmadesktop-shortcuts.upd: Found new update '4.3plasma-desktop-shortcuts'
+2016-07-12T04:07:06 plasma-to-plasmadesktop-shortcuts.upd: File 'kglobalshortcutsrc' does not exist or empty, skipping
+2016-07-12T04:07:06 Checking update-file '/usr/share/kde4/apps/kconf_update/klipper-kconfigxt.upd' for new updates
+2016-07-12T04:07:06 klipper-kconfigxt.upd: Found new update 'KlipperNoSpacesInKeyNames'
+2016-07-12T04:07:06 klipper-kconfigxt.upd: File 'klipperrc' does not exist or empty, skipping
+2016-07-12T04:07:06 Checking update-file '/usr/share/kde4/apps/kconf_update/kcmdisplayrc.upd' for new updates
+2016-07-12T04:07:06 kcmdisplayrc.upd: Found new update 'kde3'
+2016-07-12T04:07:06 Checking update-file '/usr/share/kde4/apps/kconf_update/devicepreference.upd' for new updates
+2016-07-12T04:07:06 devicepreference.upd: Found new update 'DevicesMovedToPlatformPlugin'
+2016-07-12T04:07:06 devicepreference.upd: Running script 'phonon_devicepreference_update'
+2016-07-12T04:07:06 devicepreference.upd: Found new update 'DevicesUIDsChanged'
+2016-07-12T04:07:06 devicepreference.upd: Running script 'phonon_deviceuids_update'
+2016-07-12T04:07:06 Checking update-file '/usr/share/kde4/apps/kconf_update/favicons.upd' for new updates
+2016-07-12T04:07:06 favicons.upd: Found new update 'kde3_2'
+2016-07-12T04:07:06 favicons.upd: Running script 'move_favicons.sh'
+2016-07-12T04:07:07 Checking update-file '/usr/share/kde4/apps/kconf_update/plasmarc-to-plasmadesktoprc.upd' for new updates
+2016-07-12T04:07:07 plasmarc-to-plasmadesktoprc.upd: Found new update '4.3plasma-desktop'
+2016-07-12T04:07:07 plasmarc-to-plasmadesktoprc.upd: Running script 'plasma-to-plasma-desktop'
+2016-07-12T04:07:07 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_focus2.upd' for new updates
+2016-07-12T04:07:07 kwin_focus2.upd: Found new update 'kwin_focus2'
+2016-07-12T04:07:07 kwin_focus2.upd: Running script 'kwin_focus2.sh'
+2016-07-12T04:07:07 Checking update-file '/usr/share/kde4/apps/kconf_update/kcookiescfg.upd' for new updates
+2016-07-12T04:07:07 kcookiescfg.upd: Found new update 'kde2.2/b1'
+2016-07-12T04:07:07 kcookiescfg.upd: File 'kcookiejarrc' does not exist or empty, skipping
+2016-07-12T04:07:07 kcookiescfg.upd: Found new update 'kde3.1/cvs'
+2016-07-12T04:07:07 kcookiescfg.upd: File 'kcookiejarrc' does not exist or empty, skipping
+2016-07-12T04:07:07 Checking update-file '/usr/share/kde4/apps/kconf_update/kio_help.upd' for new updates
+2016-07-12T04:07:07 kio_help.upd: Found new update 'kde3_2'
+2016-07-12T04:07:07 kio_help.upd: Running script 'move_kio_help_cache.sh'
+2016-07-12T04:07:07 [Script] mv: cannot stat `/nashome/s/soughton/.kde/share/apps/kio_help/cache': No such file or directory
+2016-07-12T04:07:07 [Script] rmdir: failed to remove `/nashome/s/soughton/.kde/share/apps/kio_help': No such file or directory
+2016-07-12T04:07:07 Checking update-file '/usr/share/kde4/apps/kconf_update/ksmserver.upd' for new updates
+2016-07-12T04:07:07 ksmserver.upd: Found new update 'kde3'
+2016-07-12T04:07:07 ksmserver.upd: File 'ksmserverrc' does not exist or empty, skipping
+2016-07-12T04:07:07 Checking update-file '/usr/share/kde4/apps/kconf_update/krdb.upd' for new updates
+2016-07-12T04:07:07 krdb.upd: Found new update 'LibraryPathNeedsANewStart'
+2016-07-12T04:07:07 krdb.upd: Running script 'krdb_clearlibrarypath'
+2016-07-12T04:07:07 Checking update-file '/usr/share/kde4/apps/kconf_update/cervisia.upd' for new updates
+2016-07-12T04:07:07 cervisia.upd: Found new update 'kde3.2/20021228'
+2016-07-12T04:07:07 cervisia.upd: File 'cervisiapartrc' does not exist or empty, skipping
+2016-07-12T04:07:07 cervisia.upd: Found new update 'kde3.2/20021229'
+2016-07-12T04:07:07 cervisia.upd: File 'cervisiapartrc' does not exist or empty, skipping
+2016-07-12T04:07:07 cervisia.upd: Found new update 'kde3.2/20030116'
+2016-07-12T04:07:07 cervisia.upd: File 'cervisiapartrc' does not exist or empty, skipping
+2016-07-12T04:07:07 cervisia.upd: File 'cervisiarc' does not exist or empty, skipping
+2016-07-12T04:07:07 cervisia.upd: Found new update 'kde3.2/20030117'
+2016-07-12T04:07:07 cervisia.upd: File 'cervisiapartrc' does not exist or empty, skipping
+2016-07-12T04:07:08 cervisia.upd: Found new update 'kde3.2/20030118'
+2016-07-12T04:07:08 cervisia.upd: File 'cervisiapartrc' does not exist or empty, skipping
+2016-07-12T04:07:08 cervisia.upd: Skipping update 'kde3.2/20030118'
+2016-07-12T04:07:08 cervisia.upd: File 'cervisiapartrc' does not exist or empty, skipping
+2016-07-12T04:07:08 cervisia.upd: Found new update 'kde3.2/20030205'
+2016-07-12T04:07:08 cervisia.upd: File 'cervisiapartrc' does not exist or empty, skipping
+2016-07-12T04:07:08 cervisia.upd: Found new update 'kde3.2/20030210'
+2016-07-12T04:07:08 cervisia.upd: File 'cervisiapartrc' does not exist or empty, skipping
+2016-07-12T04:07:08 cervisia.upd: Found new update 'kde3.2/20030211'
+2016-07-12T04:07:08 cervisia.upd: File 'cervisiapartrc' does not exist or empty, skipping
+2016-07-12T04:07:08 cervisia.upd: Found new update 'kde3.2/20030212'
+2016-07-12T04:07:08 cervisia.upd: File 'cervisiapartrc' does not exist or empty, skipping
+2016-07-12T04:07:08 cervisia.upd: Found new update 'kde3.2/20030216'
+2016-07-12T04:07:08 cervisia.upd: File 'cervisiapartrc' does not exist or empty, skipping
+2016-07-12T04:07:08 cervisia.upd: Found new update 'kde3.2/20030725'
+2016-07-12T04:07:08 cervisia.upd: File 'cervisiapartrc' does not exist or empty, skipping
+2016-07-12T04:07:08 cervisia.upd: Found new update 'kde3.2/20030730'
+2016-07-12T04:07:08 cervisia.upd: File 'cervisiapartrc' does not exist or empty, skipping
+2016-07-12T04:07:08 cervisia.upd: Found new update 'kde3.2/20030829'
+2016-07-12T04:07:08 cervisia.upd: File 'cervisiapartrc' does not exist or empty, skipping
+2016-07-12T04:07:08 cervisia.upd: Found new update 'kde3.2/20031014'
+2016-07-12T04:07:08 cervisia.upd: File 'cervisiapartrc' does not exist or empty, skipping
+2016-07-12T04:07:08 cervisia.upd: Found new update 'kde3.4/20041112'
+2016-07-12T04:07:08 cervisia.upd: File 'cvsservicerc' does not exist or empty, skipping
+2016-07-12T04:07:08 cervisia.upd: Found new update 'kde3.4/20041207'
+2016-07-12T04:07:08 cervisia.upd: File 'cervisiapartrc' does not exist or empty, skipping
+2016-07-12T04:07:08 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_window_shortcuts.upd' for new updates
+2016-07-12T04:07:08 kwin_window_shortcuts.upd: Found new update 'kde414'
+2016-07-12T04:07:08 kwin_window_shortcuts.upd: File 'kglobalshortcutsrc' does not exist or empty, skipping
+2016-07-12T04:07:08 Checking update-file '/usr/share/kde4/apps/kconf_update/kate-2.4.upd' for new updates
+2016-07-12T04:07:08 kate-2.4.upd: Found new update 'kate2.4'
+2016-07-12T04:07:08 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_fsp_workarounds_1.upd' for new updates
+2016-07-12T04:07:08 kwin_fsp_workarounds_1.upd: Found new update 'kde351'
+2016-07-12T04:07:08 kwin_fsp_workarounds_1.upd: Running script 'kwin_update_default_rules' with arguments 'fsp_workarounds_1.kwinrules'
+2016-07-12T04:07:08 Checking update-file '/usr/share/kde4/apps/kconf_update/kded.upd' for new updates
+2016-07-12T04:07:08 kded.upd: Found new update 'kde3.0'
+2016-07-12T04:07:08 kded.upd: File 'kdedrc' does not exist or empty, skipping
+2016-07-12T04:07:08 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_on_off.upd' for new updates
+2016-07-12T04:07:08 kwin_on_off.upd: Found new update 'kwin_on_off'
+2016-07-12T04:07:08 kwin_on_off.upd: Running script 'on-off_to_true-false.sh'
+2016-07-12T04:07:08 Checking update-file '/usr/share/kde4/apps/kconf_update/kuriikwsfilter.upd' for new updates
+2016-07-12T04:07:08 kuriikwsfilter.upd: Found new update 'post-kde3.1/cvs'
+2016-07-12T04:07:08 kuriikwsfilter.upd: File 'kuriikwsfilterrc' does not exist or empty, skipping
+2016-07-12T04:07:08 Checking update-file '/usr/share/kde4/apps/kconf_update/kwiniconify.upd' for new updates
+2016-07-12T04:07:08 kwiniconify.upd: Found new update 'iconifyupd3.1'
+2016-07-12T04:07:08 kwiniconify.upd: File 'kwin.eventsrc' does not exist or empty, skipping
+2016-07-12T04:07:08 Checking update-file '/usr/share/kde4/apps/kconf_update/ksslcertificatemanager.upd' for new updates
+2016-07-12T04:07:08 ksslcertificatemanager.upd: Found new update 'kde4.2'
+2016-07-12T04:07:08 ksslcertificatemanager.upd: Running script 'ksslcertificatemanager.upd.sh'
+2016-07-12T04:07:08 [Script] rm: cannot remove `/nashome/s/soughton/.kde//share/config/ksslcertificatemanager': No such file or directory
+2016-07-12T04:07:08 ksslcertificatemanager.upd: !! An error occurred while running 'sh /usr/share/kde4/apps/kconf_update/ksslcertificatemanager.upd.sh'
+2016-07-12T04:07:08 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin.upd' for new updates
+2016-07-12T04:07:08 kwin.upd: Found new update 'kde3.0r1'
+2016-07-12T04:07:08 kwin.upd: Running script 'pluginlibFix.pl'
+2016-07-12T04:07:09 kwin.upd: Updating kwinrc:Compositing:Enabled to 'false'
+2016-07-12T04:07:09 kwin.upd: Updating kwinrc:Windows:AutoRaise to 'off'
+2016-07-12T04:07:09 kwin.upd: Updating kwinrc:Windows:AutoRaiseInterval to '0'
+2016-07-12T04:07:09 kwin.upd: Updating kwinrc:Windows:BorderSnapZone to '10'
+2016-07-12T04:07:09 kwin.upd: Updating kwinrc:Windows:ClickRaise to 'on'
+2016-07-12T04:07:09 kwin.upd: Updating kwinrc:Windows:FocusPolicy to 'ClickToFocus'
+2016-07-12T04:07:09 kwin.upd: Updating kwinrc:Windows:MoveMode to 'Opaque'
+2016-07-12T04:07:09 kwin.upd: Updating kwinrc:Windows:ResizeMode to 'Opaque'
+2016-07-12T04:07:09 kwin.upd: Updating kwinrc:Windows:WindowSnapZone to '10'
+2016-07-12T04:07:09 kwin.upd: Updating kwinrc:Windows:WindowsPlacement to 'Smart'
+2016-07-12T04:07:09 kwin.upd: Updating kwinrc:Style:PluginLib to 'kwin3_oxygen'
+2016-07-12T04:07:09 kwin.upd: Updating kwinrc:Style:ShowToolTips to 'true'
+2016-07-12T04:07:09 kwin.upd: Found new update 'kde3.2Xinerama'
+2016-07-12T04:07:09 Checking update-file '/usr/share/kde4/apps/kconf_update/kwinupdatewindowsettings.upd' for new updates
+2016-07-12T04:07:09 kwinupdatewindowsettings.upd: Found new update 'kde33b1'
+2016-07-12T04:07:09 kwinupdatewindowsettings.upd: Running script 'kwin_update_window_settings'
+2016-07-12T04:07:09 Checking update-file '/usr/share/kde4/apps/kconf_update/kioslave.upd' for new updates
+2016-07-12T04:07:09 kioslave.upd: Found new update 'kde2.2/r1'
+2016-07-12T04:07:09 kioslave.upd: File 'kioslaverc' does not exist or empty, skipping
+2016-07-12T04:07:09 kioslave.upd: Skipping update 'kde2.2/r1'
+2016-07-12T04:07:09 kioslave.upd: File 'kioslaverc' does not exist or empty, skipping
+2016-07-12T04:07:09 kioslave.upd: Found new update 'kde2.2/r2'
+2016-07-12T04:07:09 kioslave.upd: File 'kioslaverc' does not exist or empty, skipping
+2016-07-12T04:07:09 kioslave.upd: Found new update 'kde2.2/r3'
+2016-07-12T04:07:09 kioslave.upd: File 'kioslaverc' does not exist or empty, skipping
+2016-07-12T04:07:09 Checking update-file '/usr/share/kde4/apps/kconf_update/kfmclient_3_2.upd' for new updates
+2016-07-12T04:07:09 kfmclient_3_2.upd: Found new update 'kfmclient_3_2'
+2016-07-12T04:07:09 kfmclient_3_2.upd: File 'kfmclientrc' does not exist or empty, skipping
+2016-07-12T04:07:09 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_focus1.upd' for new updates
+2016-07-12T04:07:09 kwin_focus1.upd: Found new update 'kwin_focus1'
+2016-07-12T04:07:09 kwin_focus1.upd: Running script 'kwin_focus1.sh'
+2016-07-12T04:07:09 Checking update-file '/usr/share/kde4/apps/kconf_update/plasma_popupapplet_fix_groups.upd' for new updates
+2016-07-12T04:07:09 plasma_popupapplet_fix_groups.upd: Found new update 'PlasmaPopupAppletFixGroups1'
+2016-07-12T04:07:09 plasma_popupapplet_fix_groups.upd: File 'plasma-appletsrc' does not exist or empty, skipping
+2016-07-12T04:07:09 plasma_popupapplet_fix_groups.upd: Found new update 'PlasmaPopupAppletFixGroups2'
+2016-07-12T04:07:09 plasma_popupapplet_fix_groups.upd: Running script 'plasma_popupapplet_fix_groups.pl'
+2016-07-12T04:07:09 plasma_popupapplet_fix_groups.upd: Found new update 'PlasmaPopupAppletFixGroups3'
+2016-07-12T04:07:09 plasma_popupapplet_fix_groups.upd: File 'plasmoidviewer-appletsrc' does not exist or empty, skipping
+2016-07-12T04:07:09 Checking update-file '/usr/share/kde4/apps/kconf_update/mouse_cursor_theme.upd' for new updates
+2016-07-12T04:07:09 mouse_cursor_theme.upd: Found new update 'kde3.4.99'
+2016-07-12T04:07:09 Checking update-file '/usr/share/kde4/apps/kconf_update/kaccel.upd' for new updates
+2016-07-12T04:07:09 kaccel.upd: Found new update 'kde3.3/r1'
+2016-07-12T04:07:09 kaccel.upd: Running script 'convertShortcuts.pl'
+2016-07-12T04:07:09 Checking update-file '/usr/share/kde4/apps/kconf_update/plasma-add-shortcut-to-menu.upd' for new updates
+2016-07-12T04:07:09 plasma-add-shortcut-to-menu.upd: Found new update '4.1LauncherShortcut'
+2016-07-12T04:07:09 plasma-add-shortcut-to-menu.upd: !! Script 'plasma-add-shortcut-to-menu-update' not found in line 2 : 'Script=plasma-add-shortcut-to-menu-update'
+2016-07-12T04:07:09 Checking update-file '/usr/share/kde4/apps/kconf_update/kwinsticky.upd' for new updates
+2016-07-12T04:07:09 kwinsticky.upd: Found new update 'stickyupd3.1'
+2016-07-12T04:07:09 kwinsticky.upd: File 'kwin.eventsrc' does not exist or empty, skipping
+2016-07-12T04:07:09 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin3_plugin.upd' for new updates
+2016-07-12T04:07:09 kwin3_plugin.upd: Found new update 'kde3.2'
+2016-07-12T04:07:09 kwin3_plugin.upd: Running script 'kwin3_plugin.pl'
+2016-07-12T04:07:09 kwin3_plugin.upd: Updating kwinrc:Compositing:Enabled to 'false'
+2016-07-12T04:07:09 kwin3_plugin.upd: Updating kwinrc:Windows:AutoRaise to 'off'
+2016-07-12T04:07:09 kwin3_plugin.upd: Updating kwinrc:Windows:AutoRaiseInterval to '0'
+2016-07-12T04:07:09 kwin3_plugin.upd: Updating kwinrc:Windows:BorderSnapZone to '10'
+2016-07-12T04:07:09 kwin3_plugin.upd: Updating kwinrc:Windows:ClickRaise to 'on'
+2016-07-12T04:07:09 kwin3_plugin.upd: Updating kwinrc:Windows:FocusPolicy to 'ClickToFocus'
+2016-07-12T04:07:09 kwin3_plugin.upd: Updating kwinrc:Windows:MoveMode to 'Opaque'
+2016-07-12T04:07:09 kwin3_plugin.upd: Updating kwinrc:Windows:ResizeMode to 'Opaque'
+2016-07-12T04:07:09 kwin3_plugin.upd: Updating kwinrc:Windows:WindowSnapZone to '10'
+2016-07-12T04:07:09 kwin3_plugin.upd: Updating kwinrc:Windows:WindowsPlacement to 'Smart'
+2016-07-12T04:07:09 kwin3_plugin.upd: Updating kwinrc:Style:PluginLib to 'kwin3_oxygen'
+2016-07-12T04:07:09 kwin3_plugin.upd: Updating kwinrc:Style:ShowToolTips to 'true'
+2016-07-12T04:07:09 Checking update-file '/usr/share/kde4/apps/kconf_update/konqsidebartng.upd' for new updates
+2016-07-12T04:07:09 konqsidebartng.upd: Found new update 'konqsidebartng_rc'
+2016-07-12T04:07:09 konqsidebartng.upd: Found new update 'konqsidebartng_entries'
+2016-07-12T04:07:09 konqsidebartng.upd: Running script 'move_konqsidebartng_entries.sh'
+2016-08-16T08:53:36 Checking update-file '/usr/share/kde4/apps/kconf_update/kfmclient_3_2.upd' for new updates
+2016-08-16T08:53:36 Checking update-file '/usr/share/kde4/apps/kconf_update/devicepreference.upd' for new updates
+2016-08-16T08:53:36 Checking update-file '/usr/share/kde4/apps/kconf_update/konqsidebartng.upd' for new updates
+2016-08-16T08:53:36 Checking update-file '/usr/share/kde4/apps/kconf_update/kcmdisplayrc.upd' for new updates
+2016-08-16T08:53:36 Checking update-file '/usr/share/kde4/apps/kconf_update/favicons.upd' for new updates
+2016-08-16T08:53:36 Checking update-file '/usr/share/kde4/apps/kconf_update/plasma_popupapplet_fix_groups.upd' for new updates
+2016-08-16T08:53:36 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_fsp_workarounds_1.upd' for new updates
+2016-08-16T08:53:36 Checking update-file '/usr/share/kde4/apps/kconf_update/krdb.upd' for new updates
+2016-08-16T08:53:36 Checking update-file '/usr/share/kde4/apps/kconf_update/kaccel.upd' for new updates
+2016-08-16T08:53:36 Checking update-file '/usr/share/kde4/apps/kconf_update/kwiniconify.upd' for new updates
+2016-08-16T08:53:36 Checking update-file '/usr/share/kde4/apps/kconf_update/plasma-add-shortcut-to-menu.upd' for new updates
+2016-08-16T08:53:36 plasma-add-shortcut-to-menu.upd: Found new update '4.1LauncherShortcut'
+2016-08-16T08:53:36 plasma-add-shortcut-to-menu.upd: !! Script 'plasma-add-shortcut-to-menu-update' not found in line 2 : 'Script=plasma-add-shortcut-to-menu-update'
+2016-08-16T08:53:36 Checking update-file '/usr/share/kde4/apps/kconf_update/kwinsticky.upd' for new updates
+2016-08-16T08:53:36 Checking update-file '/usr/share/kde4/apps/kconf_update/kded.upd' for new updates
+2016-08-16T08:53:36 Checking update-file '/usr/share/kde4/apps/kconf_update/ksmserver.upd' for new updates
+2016-08-16T08:53:36 Checking update-file '/usr/share/kde4/apps/kconf_update/plasmarc-to-plasmadesktoprc.upd' for new updates
+2016-08-16T08:53:36 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_focus1.upd' for new updates
+2016-08-16T08:53:37 Checking update-file '/usr/share/kde4/apps/kconf_update/ksslcertificatemanager.upd' for new updates
+2016-08-16T08:53:37 Checking update-file '/usr/share/kde4/apps/kconf_update/kioslave.upd' for new updates
+2016-08-16T08:53:37 kioslave.upd: Found new update 'kde2.2/r1'
+2016-08-16T08:53:37 kioslave.upd: Skipping update 'kde2.2/r1'
+2016-08-16T08:53:37 kioslave.upd: File 'kioslaverc' does not exist or empty, skipping
+2016-08-16T08:53:37 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_window_shortcuts.upd' for new updates
+2016-08-16T08:53:37 Checking update-file '/usr/share/kde4/apps/kconf_update/kio_help.upd' for new updates
+2016-08-16T08:53:37 Checking update-file '/usr/share/kde4/apps/kconf_update/cervisia.upd' for new updates
+2016-08-16T08:53:37 cervisia.upd: Found new update 'kde3.2/20030118'
+2016-08-16T08:53:37 cervisia.upd: Skipping update 'kde3.2/20030118'
+2016-08-16T08:53:37 cervisia.upd: File 'cervisiapartrc' does not exist or empty, skipping
+2016-08-16T08:53:37 Checking update-file '/usr/share/kde4/apps/kconf_update/klipper-kconfigxt.upd' for new updates
+2016-08-16T08:53:37 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin.upd' for new updates
+2016-08-16T08:53:37 Checking update-file '/usr/share/kde4/apps/kconf_update/kwinupdatewindowsettings.upd' for new updates
+2016-08-16T08:53:37 Checking update-file '/usr/share/kde4/apps/kconf_update/kate-2.4.upd' for new updates
+2016-08-16T08:53:37 Checking update-file '/usr/share/kde4/apps/kconf_update/mouse_cursor_theme.upd' for new updates
+2016-08-16T08:53:37 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin3_plugin.upd' for new updates
+2016-08-16T08:53:37 Checking update-file '/usr/share/kde4/apps/kconf_update/mailtransports.upd' for new updates
+2016-08-16T08:53:37 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_on_off.upd' for new updates
+2016-08-16T08:53:37 Checking update-file '/usr/share/kde4/apps/kconf_update/kuriikwsfilter.upd' for new updates
+2016-08-16T08:53:37 Checking update-file '/usr/share/kde4/apps/kconf_update/kcookiescfg.upd' for new updates
+2016-08-16T08:53:37 Checking update-file '/usr/share/kde4/apps/kconf_update/plasma-to-plasmadesktop-shortcuts.upd' for new updates
+2016-08-16T08:53:37 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_focus2.upd' for new updates
+2016-08-16T10:26:50 Checking update-file '/usr/share/kde4/apps/kconf_update/kaccel.upd' for new updates
+2016-08-16T10:26:50 Checking update-file '/usr/share/kde4/apps/kconf_update/ksslcertificatemanager.upd' for new updates
+2016-08-16T10:26:50 Checking update-file '/usr/share/kde4/apps/kconf_update/kcookiescfg.upd' for new updates
+2016-08-16T10:26:50 Checking update-file '/usr/share/kde4/apps/kconf_update/kwinupdatewindowsettings.upd' for new updates
+2016-08-16T10:26:50 Checking update-file '/usr/share/kde4/apps/kconf_update/devicepreference.upd' for new updates
+2016-08-16T10:26:50 Checking update-file '/usr/share/kde4/apps/kconf_update/kio_help.upd' for new updates
+2016-08-16T10:26:50 Checking update-file '/usr/share/kde4/apps/kconf_update/plasmarc-to-plasmadesktoprc.upd' for new updates
+2016-08-16T10:26:50 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_focus2.upd' for new updates
+2016-08-16T10:26:50 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_on_off.upd' for new updates
+2016-08-16T10:26:50 Checking update-file '/usr/share/kde4/apps/kconf_update/kfmclient_3_2.upd' for new updates
+2016-08-16T10:26:50 Checking update-file '/usr/share/kde4/apps/kconf_update/kuriikwsfilter.upd' for new updates
+2016-08-16T10:26:50 Checking update-file '/usr/share/kde4/apps/kconf_update/ksmserver.upd' for new updates
+2016-08-16T10:26:50 Checking update-file '/usr/share/kde4/apps/kconf_update/mailtransports.upd' for new updates
+2016-08-16T10:26:50 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin.upd' for new updates
+2016-08-16T10:26:50 Checking update-file '/usr/share/kde4/apps/kconf_update/kwinsticky.upd' for new updates
+2016-08-16T10:26:50 Checking update-file '/usr/share/kde4/apps/kconf_update/klipper-kconfigxt.upd' for new updates
+2016-08-16T10:26:51 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_fsp_workarounds_1.upd' for new updates
+2016-08-16T10:26:51 Checking update-file '/usr/share/kde4/apps/kconf_update/krdb.upd' for new updates
+2016-08-16T10:26:51 Checking update-file '/usr/share/kde4/apps/kconf_update/kded.upd' for new updates
+2016-08-16T10:26:51 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin3_plugin.upd' for new updates
+2016-08-16T10:26:51 Checking update-file '/usr/share/kde4/apps/kconf_update/plasma_popupapplet_fix_groups.upd' for new updates
+2016-08-16T10:26:51 Checking update-file '/usr/share/kde4/apps/kconf_update/kcmdisplayrc.upd' for new updates
+2016-08-16T10:26:51 Checking update-file '/usr/share/kde4/apps/kconf_update/plasma-add-shortcut-to-menu.upd' for new updates
+2016-08-16T10:26:51 plasma-add-shortcut-to-menu.upd: Found new update '4.1LauncherShortcut'
+2016-08-16T10:26:51 plasma-add-shortcut-to-menu.upd: !! Script 'plasma-add-shortcut-to-menu-update' not found in line 2 : 'Script=plasma-add-shortcut-to-menu-update'
+2016-08-16T10:26:51 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_window_shortcuts.upd' for new updates
+2016-08-16T10:26:51 Checking update-file '/usr/share/kde4/apps/kconf_update/konqsidebartng.upd' for new updates
+2016-08-16T10:26:51 Checking update-file '/usr/share/kde4/apps/kconf_update/kate-2.4.upd' for new updates
+2016-08-16T10:26:51 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_focus1.upd' for new updates
+2016-08-16T10:26:51 Checking update-file '/usr/share/kde4/apps/kconf_update/cervisia.upd' for new updates
+2016-08-16T10:26:51 cervisia.upd: Found new update 'kde3.2/20030118'
+2016-08-16T10:26:51 cervisia.upd: Skipping update 'kde3.2/20030118'
+2016-08-16T10:26:51 cervisia.upd: File 'cervisiapartrc' does not exist or empty, skipping
+2016-08-16T10:26:51 Checking update-file '/usr/share/kde4/apps/kconf_update/kwiniconify.upd' for new updates
+2016-08-16T10:26:51 Checking update-file '/usr/share/kde4/apps/kconf_update/kioslave.upd' for new updates
+2016-08-16T10:26:51 kioslave.upd: Found new update 'kde2.2/r1'
+2016-08-16T10:26:51 kioslave.upd: Skipping update 'kde2.2/r1'
+2016-08-16T10:26:51 kioslave.upd: File 'kioslaverc' does not exist or empty, skipping
+2016-08-16T10:26:51 Checking update-file '/usr/share/kde4/apps/kconf_update/mouse_cursor_theme.upd' for new updates
+2016-08-16T10:26:51 Checking update-file '/usr/share/kde4/apps/kconf_update/favicons.upd' for new updates
+2016-08-16T10:26:51 Checking update-file '/usr/share/kde4/apps/kconf_update/plasma-to-plasmadesktop-shortcuts.upd' for new updates
+2016-08-22T06:15:25 Checking update-file '/usr/share/kde4/apps/kconf_update/mailtransports.upd' for new updates
+2016-08-22T06:15:25 Checking update-file '/usr/share/kde4/apps/kconf_update/plasma-to-plasmadesktop-shortcuts.upd' for new updates
+2016-08-22T06:15:25 Checking update-file '/usr/share/kde4/apps/kconf_update/klipper-kconfigxt.upd' for new updates
+2016-08-22T06:15:25 Checking update-file '/usr/share/kde4/apps/kconf_update/kcmdisplayrc.upd' for new updates
+2016-08-22T06:15:25 Checking update-file '/usr/share/kde4/apps/kconf_update/devicepreference.upd' for new updates
+2016-08-22T06:15:25 Checking update-file '/usr/share/kde4/apps/kconf_update/favicons.upd' for new updates
+2016-08-22T06:15:25 Checking update-file '/usr/share/kde4/apps/kconf_update/plasmarc-to-plasmadesktoprc.upd' for new updates
+2016-08-22T06:15:25 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_focus2.upd' for new updates
+2016-08-22T06:15:25 Checking update-file '/usr/share/kde4/apps/kconf_update/kcookiescfg.upd' for new updates
+2016-08-22T06:15:25 Checking update-file '/usr/share/kde4/apps/kconf_update/kio_help.upd' for new updates
+2016-08-22T06:15:25 Checking update-file '/usr/share/kde4/apps/kconf_update/ksmserver.upd' for new updates
+2016-08-22T06:15:25 Checking update-file '/usr/share/kde4/apps/kconf_update/krdb.upd' for new updates
+2016-08-22T06:15:25 Checking update-file '/usr/share/kde4/apps/kconf_update/cervisia.upd' for new updates
+2016-08-22T06:15:25 cervisia.upd: Found new update 'kde3.2/20030118'
+2016-08-22T06:15:25 cervisia.upd: Skipping update 'kde3.2/20030118'
+2016-08-22T06:15:25 cervisia.upd: File 'cervisiapartrc' does not exist or empty, skipping
+2016-08-22T06:15:25 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_window_shortcuts.upd' for new updates
+2016-08-22T06:15:25 Checking update-file '/usr/share/kde4/apps/kconf_update/kate-2.4.upd' for new updates
+2016-08-22T06:15:25 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_fsp_workarounds_1.upd' for new updates
+2016-08-22T06:15:25 Checking update-file '/usr/share/kde4/apps/kconf_update/kded.upd' for new updates
+2016-08-22T06:15:25 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_on_off.upd' for new updates
+2016-08-22T06:15:25 Checking update-file '/usr/share/kde4/apps/kconf_update/kuriikwsfilter.upd' for new updates
+2016-08-22T06:15:25 Checking update-file '/usr/share/kde4/apps/kconf_update/kwiniconify.upd' for new updates
+2016-08-22T06:15:25 Checking update-file '/usr/share/kde4/apps/kconf_update/ksslcertificatemanager.upd' for new updates
+2016-08-22T06:15:25 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin.upd' for new updates
+2016-08-22T06:15:25 Checking update-file '/usr/share/kde4/apps/kconf_update/kwinupdatewindowsettings.upd' for new updates
+2016-08-22T06:15:25 Checking update-file '/usr/share/kde4/apps/kconf_update/kioslave.upd' for new updates
+2016-08-22T06:15:25 kioslave.upd: Found new update 'kde2.2/r1'
+2016-08-22T06:15:25 kioslave.upd: Skipping update 'kde2.2/r1'
+2016-08-22T06:15:25 kioslave.upd: File 'kioslaverc' does not exist or empty, skipping
+2016-08-22T06:15:25 Checking update-file '/usr/share/kde4/apps/kconf_update/kfmclient_3_2.upd' for new updates
+2016-08-22T06:15:25 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_focus1.upd' for new updates
+2016-08-22T06:15:25 Checking update-file '/usr/share/kde4/apps/kconf_update/plasma_popupapplet_fix_groups.upd' for new updates
+2016-08-22T06:15:25 Checking update-file '/usr/share/kde4/apps/kconf_update/mouse_cursor_theme.upd' for new updates
+2016-08-22T06:15:25 Checking update-file '/usr/share/kde4/apps/kconf_update/kaccel.upd' for new updates
+2016-08-22T06:15:25 Checking update-file '/usr/share/kde4/apps/kconf_update/plasma-add-shortcut-to-menu.upd' for new updates
+2016-08-22T06:15:25 plasma-add-shortcut-to-menu.upd: Found new update '4.1LauncherShortcut'
+2016-08-22T06:15:25 plasma-add-shortcut-to-menu.upd: !! Script 'plasma-add-shortcut-to-menu-update' not found in line 2 : 'Script=plasma-add-shortcut-to-menu-update'
+2016-08-22T06:15:25 Checking update-file '/usr/share/kde4/apps/kconf_update/kwinsticky.upd' for new updates
+2016-08-22T06:15:25 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin3_plugin.upd' for new updates
+2016-08-22T06:15:25 Checking update-file '/usr/share/kde4/apps/kconf_update/konqsidebartng.upd' for new updates
+2016-08-22T06:31:53 Checking update-file '/usr/share/kde4/apps/kconf_update/plasma_popupapplet_fix_groups.upd' for new updates
+2016-08-22T06:31:53 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin3_plugin.upd' for new updates
+2016-08-22T06:31:53 Checking update-file '/usr/share/kde4/apps/kconf_update/kfmclient_3_2.upd' for new updates
+2016-08-22T06:31:53 Checking update-file '/usr/share/kde4/apps/kconf_update/kio_help.upd' for new updates
+2016-08-22T06:31:53 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_window_shortcuts.upd' for new updates
+2016-08-22T06:31:53 Checking update-file '/usr/share/kde4/apps/kconf_update/favicons.upd' for new updates
+2016-08-22T06:31:53 Checking update-file '/usr/share/kde4/apps/kconf_update/krdb.upd' for new updates
+2016-08-22T06:31:53 Checking update-file '/usr/share/kde4/apps/kconf_update/konqsidebartng.upd' for new updates
+2016-08-22T06:31:53 Checking update-file '/usr/share/kde4/apps/kconf_update/kioslave.upd' for new updates
+2016-08-22T06:31:53 kioslave.upd: Found new update 'kde2.2/r1'
+2016-08-22T06:31:53 kioslave.upd: Skipping update 'kde2.2/r1'
+2016-08-22T06:31:53 kioslave.upd: File 'kioslaverc' does not exist or empty, skipping
+2016-08-22T06:31:53 Checking update-file '/usr/share/kde4/apps/kconf_update/kate-2.4.upd' for new updates
+2016-08-22T06:31:53 Checking update-file '/usr/share/kde4/apps/kconf_update/kuriikwsfilter.upd' for new updates
+2016-08-22T06:31:53 Checking update-file '/usr/share/kde4/apps/kconf_update/kded.upd' for new updates
+2016-08-22T06:31:53 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_on_off.upd' for new updates
+2016-08-22T06:31:53 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin.upd' for new updates
+2016-08-22T06:31:53 Checking update-file '/usr/share/kde4/apps/kconf_update/kwinsticky.upd' for new updates
+2016-08-22T06:31:53 Checking update-file '/usr/share/kde4/apps/kconf_update/plasmarc-to-plasmadesktoprc.upd' for new updates
+2016-08-22T06:31:53 Checking update-file '/usr/share/kde4/apps/kconf_update/kaccel.upd' for new updates
+2016-08-22T06:31:53 Checking update-file '/usr/share/kde4/apps/kconf_update/kwinupdatewindowsettings.upd' for new updates
+2016-08-22T06:31:53 Checking update-file '/usr/share/kde4/apps/kconf_update/ksslcertificatemanager.upd' for new updates
+2016-08-22T06:31:53 Checking update-file '/usr/share/kde4/apps/kconf_update/kcmdisplayrc.upd' for new updates
+2016-08-22T06:31:53 Checking update-file '/usr/share/kde4/apps/kconf_update/mailtransports.upd' for new updates
+2016-08-22T06:31:53 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_focus2.upd' for new updates
+2016-08-22T06:31:53 Checking update-file '/usr/share/kde4/apps/kconf_update/devicepreference.upd' for new updates
+2016-08-22T06:31:53 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_focus1.upd' for new updates
+2016-08-22T06:31:53 Checking update-file '/usr/share/kde4/apps/kconf_update/cervisia.upd' for new updates
+2016-08-22T06:31:53 cervisia.upd: Found new update 'kde3.2/20030118'
+2016-08-22T06:31:53 cervisia.upd: Skipping update 'kde3.2/20030118'
+2016-08-22T06:31:53 cervisia.upd: File 'cervisiapartrc' does not exist or empty, skipping
+2016-08-22T06:31:53 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_fsp_workarounds_1.upd' for new updates
+2016-08-22T06:31:53 Checking update-file '/usr/share/kde4/apps/kconf_update/plasma-to-plasmadesktop-shortcuts.upd' for new updates
+2016-08-22T06:31:53 Checking update-file '/usr/share/kde4/apps/kconf_update/kcookiescfg.upd' for new updates
+2016-08-22T06:31:53 Checking update-file '/usr/share/kde4/apps/kconf_update/ksmserver.upd' for new updates
+2016-08-22T06:31:53 Checking update-file '/usr/share/kde4/apps/kconf_update/plasma-add-shortcut-to-menu.upd' for new updates
+2016-08-22T06:31:53 plasma-add-shortcut-to-menu.upd: Found new update '4.1LauncherShortcut'
+2016-08-22T06:31:53 plasma-add-shortcut-to-menu.upd: !! Script 'plasma-add-shortcut-to-menu-update' not found in line 2 : 'Script=plasma-add-shortcut-to-menu-update'
+2016-08-22T06:31:53 Checking update-file '/usr/share/kde4/apps/kconf_update/klipper-kconfigxt.upd' for new updates
+2016-08-22T06:31:53 Checking update-file '/usr/share/kde4/apps/kconf_update/mouse_cursor_theme.upd' for new updates
+2016-08-22T06:31:53 Checking update-file '/usr/share/kde4/apps/kconf_update/kwiniconify.upd' for new updates
+2016-08-22T07:06:52 Checking update-file '/usr/share/kde4/apps/kconf_update/kaccel.upd' for new updates
+2016-08-22T07:06:52 Checking update-file '/usr/share/kde4/apps/kconf_update/ksslcertificatemanager.upd' for new updates
+2016-08-22T07:06:52 Checking update-file '/usr/share/kde4/apps/kconf_update/kcookiescfg.upd' for new updates
+2016-08-22T07:06:52 Checking update-file '/usr/share/kde4/apps/kconf_update/kwinupdatewindowsettings.upd' for new updates
+2016-08-22T07:06:52 Checking update-file '/usr/share/kde4/apps/kconf_update/devicepreference.upd' for new updates
+2016-08-22T07:06:52 Checking update-file '/usr/share/kde4/apps/kconf_update/kio_help.upd' for new updates
+2016-08-22T07:06:52 Checking update-file '/usr/share/kde4/apps/kconf_update/plasmarc-to-plasmadesktoprc.upd' for new updates
+2016-08-22T07:06:53 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_focus2.upd' for new updates
+2016-08-22T07:06:53 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_on_off.upd' for new updates
+2016-08-22T07:06:53 Checking update-file '/usr/share/kde4/apps/kconf_update/kfmclient_3_2.upd' for new updates
+2016-08-22T07:06:53 Checking update-file '/usr/share/kde4/apps/kconf_update/kuriikwsfilter.upd' for new updates
+2016-08-22T07:06:53 Checking update-file '/usr/share/kde4/apps/kconf_update/ksmserver.upd' for new updates
+2016-08-22T07:06:53 Checking update-file '/usr/share/kde4/apps/kconf_update/mailtransports.upd' for new updates
+2016-08-22T07:06:53 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin.upd' for new updates
+2016-08-22T07:06:53 Checking update-file '/usr/share/kde4/apps/kconf_update/kwinsticky.upd' for new updates
+2016-08-22T07:06:53 Checking update-file '/usr/share/kde4/apps/kconf_update/klipper-kconfigxt.upd' for new updates
+2016-08-22T07:06:53 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_fsp_workarounds_1.upd' for new updates
+2016-08-22T07:06:53 Checking update-file '/usr/share/kde4/apps/kconf_update/krdb.upd' for new updates
+2016-08-22T07:06:53 Checking update-file '/usr/share/kde4/apps/kconf_update/kded.upd' for new updates
+2016-08-22T07:06:53 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin3_plugin.upd' for new updates
+2016-08-22T07:06:53 Checking update-file '/usr/share/kde4/apps/kconf_update/plasma_popupapplet_fix_groups.upd' for new updates
+2016-08-22T07:06:53 Checking update-file '/usr/share/kde4/apps/kconf_update/kcmdisplayrc.upd' for new updates
+2016-08-22T07:06:53 Checking update-file '/usr/share/kde4/apps/kconf_update/plasma-add-shortcut-to-menu.upd' for new updates
+2016-08-22T07:06:53 plasma-add-shortcut-to-menu.upd: Found new update '4.1LauncherShortcut'
+2016-08-22T07:06:53 plasma-add-shortcut-to-menu.upd: !! Script 'plasma-add-shortcut-to-menu-update' not found in line 2 : 'Script=plasma-add-shortcut-to-menu-update'
+2016-08-22T07:06:53 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_window_shortcuts.upd' for new updates
+2016-08-22T07:06:53 Checking update-file '/usr/share/kde4/apps/kconf_update/konqsidebartng.upd' for new updates
+2016-08-22T07:06:53 Checking update-file '/usr/share/kde4/apps/kconf_update/kate-2.4.upd' for new updates
+2016-08-22T07:06:53 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_focus1.upd' for new updates
+2016-08-22T07:06:53 Checking update-file '/usr/share/kde4/apps/kconf_update/cervisia.upd' for new updates
+2016-08-22T07:06:53 cervisia.upd: Found new update 'kde3.2/20030118'
+2016-08-22T07:06:53 cervisia.upd: Skipping update 'kde3.2/20030118'
+2016-08-22T07:06:53 cervisia.upd: File 'cervisiapartrc' does not exist or empty, skipping
+2016-08-22T07:06:53 Checking update-file '/usr/share/kde4/apps/kconf_update/kwiniconify.upd' for new updates
+2016-08-22T07:06:53 Checking update-file '/usr/share/kde4/apps/kconf_update/kioslave.upd' for new updates
+2016-08-22T07:06:53 kioslave.upd: Found new update 'kde2.2/r1'
+2016-08-22T07:06:53 kioslave.upd: Skipping update 'kde2.2/r1'
+2016-08-22T07:06:53 kioslave.upd: File 'kioslaverc' does not exist or empty, skipping
+2016-08-22T07:06:53 Checking update-file '/usr/share/kde4/apps/kconf_update/mouse_cursor_theme.upd' for new updates
+2016-08-22T07:06:53 Checking update-file '/usr/share/kde4/apps/kconf_update/favicons.upd' for new updates
+2016-08-22T07:06:53 Checking update-file '/usr/share/kde4/apps/kconf_update/plasma-to-plasmadesktop-shortcuts.upd' for new updates
+2016-09-22T06:05:25 Checking update-file '/usr/share/kde4/apps/kconf_update/mailtransports.upd' for new updates
+2016-09-22T06:05:25 Checking update-file '/usr/share/kde4/apps/kconf_update/plasma-to-plasmadesktop-shortcuts.upd' for new updates
+2016-09-22T06:05:26 Checking update-file '/usr/share/kde4/apps/kconf_update/klipper-kconfigxt.upd' for new updates
+2016-09-22T06:05:26 Checking update-file '/usr/share/kde4/apps/kconf_update/kcmdisplayrc.upd' for new updates
+2016-09-22T06:05:26 Checking update-file '/usr/share/kde4/apps/kconf_update/devicepreference.upd' for new updates
+2016-09-22T06:05:26 Checking update-file '/usr/share/kde4/apps/kconf_update/favicons.upd' for new updates
+2016-09-22T06:05:26 Checking update-file '/usr/share/kde4/apps/kconf_update/plasmarc-to-plasmadesktoprc.upd' for new updates
+2016-09-22T06:05:26 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_focus2.upd' for new updates
+2016-09-22T06:05:26 Checking update-file '/usr/share/kde4/apps/kconf_update/kcookiescfg.upd' for new updates
+2016-09-22T06:05:26 Checking update-file '/usr/share/kde4/apps/kconf_update/kio_help.upd' for new updates
+2016-09-22T06:05:26 Checking update-file '/usr/share/kde4/apps/kconf_update/ksmserver.upd' for new updates
+2016-09-22T06:05:26 Checking update-file '/usr/share/kde4/apps/kconf_update/krdb.upd' for new updates
+2016-09-22T06:05:26 Checking update-file '/usr/share/kde4/apps/kconf_update/cervisia.upd' for new updates
+2016-09-22T06:05:26 cervisia.upd: Found new update 'kde3.2/20030118'
+2016-09-22T06:05:26 cervisia.upd: Skipping update 'kde3.2/20030118'
+2016-09-22T06:05:26 cervisia.upd: File 'cervisiapartrc' does not exist or empty, skipping
+2016-09-22T06:05:26 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_window_shortcuts.upd' for new updates
+2016-09-22T06:05:26 Checking update-file '/usr/share/kde4/apps/kconf_update/kate-2.4.upd' for new updates
+2016-09-22T06:05:26 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_fsp_workarounds_1.upd' for new updates
+2016-09-22T06:05:26 Checking update-file '/usr/share/kde4/apps/kconf_update/kded.upd' for new updates
+2016-09-22T06:05:26 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_on_off.upd' for new updates
+2016-09-22T06:05:26 Checking update-file '/usr/share/kde4/apps/kconf_update/kuriikwsfilter.upd' for new updates
+2016-09-22T06:05:26 Checking update-file '/usr/share/kde4/apps/kconf_update/kwiniconify.upd' for new updates
+2016-09-22T06:05:26 Checking update-file '/usr/share/kde4/apps/kconf_update/ksslcertificatemanager.upd' for new updates
+2016-09-22T06:05:26 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin.upd' for new updates
+2016-09-22T06:05:26 Checking update-file '/usr/share/kde4/apps/kconf_update/kwinupdatewindowsettings.upd' for new updates
+2016-09-22T06:05:26 Checking update-file '/usr/share/kde4/apps/kconf_update/kioslave.upd' for new updates
+2016-09-22T06:05:26 kioslave.upd: Found new update 'kde2.2/r1'
+2016-09-22T06:05:26 kioslave.upd: Skipping update 'kde2.2/r1'
+2016-09-22T06:05:26 kioslave.upd: File 'kioslaverc' does not exist or empty, skipping
+2016-09-22T06:05:26 Checking update-file '/usr/share/kde4/apps/kconf_update/kfmclient_3_2.upd' for new updates
+2016-09-22T06:05:26 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_focus1.upd' for new updates
+2016-09-22T06:05:26 Checking update-file '/usr/share/kde4/apps/kconf_update/plasma_popupapplet_fix_groups.upd' for new updates
+2016-09-22T06:05:26 Checking update-file '/usr/share/kde4/apps/kconf_update/mouse_cursor_theme.upd' for new updates
+2016-09-22T06:05:26 Checking update-file '/usr/share/kde4/apps/kconf_update/kaccel.upd' for new updates
+2016-09-22T06:05:26 Checking update-file '/usr/share/kde4/apps/kconf_update/plasma-add-shortcut-to-menu.upd' for new updates
+2016-09-22T06:05:26 plasma-add-shortcut-to-menu.upd: Found new update '4.1LauncherShortcut'
+2016-09-22T06:05:26 plasma-add-shortcut-to-menu.upd: !! Script 'plasma-add-shortcut-to-menu-update' not found in line 2 : 'Script=plasma-add-shortcut-to-menu-update'
+2016-09-22T06:05:26 Checking update-file '/usr/share/kde4/apps/kconf_update/kwinsticky.upd' for new updates
+2016-09-22T06:05:26 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin3_plugin.upd' for new updates
+2016-09-22T06:05:26 Checking update-file '/usr/share/kde4/apps/kconf_update/konqsidebartng.upd' for new updates
+2017-07-27T08:03:58 Checking update-file '/usr/share/kde4/apps/kconf_update/kaccel.upd' for new updates
+2017-07-27T08:03:58 Checking update-file '/usr/share/kde4/apps/kconf_update/ksslcertificatemanager.upd' for new updates
+2017-07-27T08:03:58 Checking update-file '/usr/share/kde4/apps/kconf_update/kcookiescfg.upd' for new updates
+2017-07-27T08:03:58 Checking update-file '/usr/share/kde4/apps/kconf_update/kwinupdatewindowsettings.upd' for new updates
+2017-07-27T08:03:59 Checking update-file '/usr/share/kde4/apps/kconf_update/devicepreference.upd' for new updates
+2017-07-27T08:03:59 Checking update-file '/usr/share/kde4/apps/kconf_update/kio_help.upd' for new updates
+2017-07-27T08:03:59 Checking update-file '/usr/share/kde4/apps/kconf_update/plasmarc-to-plasmadesktoprc.upd' for new updates
+2017-07-27T08:03:59 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_focus2.upd' for new updates
+2017-07-27T08:03:59 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_on_off.upd' for new updates
+2017-07-27T08:03:59 Checking update-file '/usr/share/kde4/apps/kconf_update/kfmclient_3_2.upd' for new updates
+2017-07-27T08:03:59 Checking update-file '/usr/share/kde4/apps/kconf_update/kuriikwsfilter.upd' for new updates
+2017-07-27T08:03:59 Checking update-file '/usr/share/kde4/apps/kconf_update/ksmserver.upd' for new updates
+2017-07-27T08:03:59 Checking update-file '/usr/share/kde4/apps/kconf_update/mailtransports.upd' for new updates
+2017-07-27T08:03:59 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin.upd' for new updates
+2017-07-27T08:03:59 Checking update-file '/usr/share/kde4/apps/kconf_update/kwinsticky.upd' for new updates
+2017-07-27T08:03:59 Checking update-file '/usr/share/kde4/apps/kconf_update/klipper-kconfigxt.upd' for new updates
+2017-07-27T08:03:59 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_fsp_workarounds_1.upd' for new updates
+2017-07-27T08:03:59 Checking update-file '/usr/share/kde4/apps/kconf_update/krdb.upd' for new updates
+2017-07-27T08:03:59 Checking update-file '/usr/share/kde4/apps/kconf_update/kded.upd' for new updates
+2017-07-27T08:03:59 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin3_plugin.upd' for new updates
+2017-07-27T08:03:59 Checking update-file '/usr/share/kde4/apps/kconf_update/plasma_popupapplet_fix_groups.upd' for new updates
+2017-07-27T08:03:59 Checking update-file '/usr/share/kde4/apps/kconf_update/kcmdisplayrc.upd' for new updates
+2017-07-27T08:03:59 Checking update-file '/usr/share/kde4/apps/kconf_update/plasma-add-shortcut-to-menu.upd' for new updates
+2017-07-27T08:03:59 plasma-add-shortcut-to-menu.upd: Found new update '4.1LauncherShortcut'
+2017-07-27T08:03:59 plasma-add-shortcut-to-menu.upd: !! Script 'plasma-add-shortcut-to-menu-update' not found in line 2 : 'Script=plasma-add-shortcut-to-menu-update'
+2017-07-27T08:03:59 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_window_shortcuts.upd' for new updates
+2017-07-27T08:03:59 Checking update-file '/usr/share/kde4/apps/kconf_update/konqsidebartng.upd' for new updates
+2017-07-27T08:03:59 Checking update-file '/usr/share/kde4/apps/kconf_update/kate-2.4.upd' for new updates
+2017-07-27T08:03:59 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_focus1.upd' for new updates
+2017-07-27T08:03:59 Checking update-file '/usr/share/kde4/apps/kconf_update/cervisia.upd' for new updates
+2017-07-27T08:03:59 cervisia.upd: Found new update 'kde3.2/20030118'
+2017-07-27T08:03:59 cervisia.upd: Skipping update 'kde3.2/20030118'
+2017-07-27T08:03:59 cervisia.upd: File 'cervisiapartrc' does not exist or empty, skipping
+2017-07-27T08:03:59 Checking update-file '/usr/share/kde4/apps/kconf_update/kwiniconify.upd' for new updates
+2017-07-27T08:03:59 Checking update-file '/usr/share/kde4/apps/kconf_update/kioslave.upd' for new updates
+2017-07-27T08:03:59 kioslave.upd: Found new update 'kde2.2/r1'
+2017-07-27T08:03:59 kioslave.upd: Skipping update 'kde2.2/r1'
+2017-07-27T08:03:59 kioslave.upd: File 'kioslaverc' does not exist or empty, skipping
+2017-07-27T08:03:59 Checking update-file '/usr/share/kde4/apps/kconf_update/mouse_cursor_theme.upd' for new updates
+2017-07-27T08:03:59 Checking update-file '/usr/share/kde4/apps/kconf_update/favicons.upd' for new updates
+2017-07-27T08:03:59 Checking update-file '/usr/share/kde4/apps/kconf_update/plasma-to-plasmadesktop-shortcuts.upd' for new updates
+2017-08-17T08:25:41 Checking update-file '/usr/share/kde4/apps/kconf_update/mailtransports.upd' for new updates
+2017-08-17T08:25:42 Checking update-file '/usr/share/kde4/apps/kconf_update/plasma-to-plasmadesktop-shortcuts.upd' for new updates
+2017-08-17T08:25:42 Checking update-file '/usr/share/kde4/apps/kconf_update/klipper-kconfigxt.upd' for new updates
+2017-08-17T08:25:42 Checking update-file '/usr/share/kde4/apps/kconf_update/kcmdisplayrc.upd' for new updates
+2017-08-17T08:25:42 Checking update-file '/usr/share/kde4/apps/kconf_update/devicepreference.upd' for new updates
+2017-08-17T08:25:42 Checking update-file '/usr/share/kde4/apps/kconf_update/favicons.upd' for new updates
+2017-08-17T08:25:42 Checking update-file '/usr/share/kde4/apps/kconf_update/plasmarc-to-plasmadesktoprc.upd' for new updates
+2017-08-17T08:25:42 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_focus2.upd' for new updates
+2017-08-17T08:25:42 Checking update-file '/usr/share/kde4/apps/kconf_update/kcookiescfg.upd' for new updates
+2017-08-17T08:25:42 Checking update-file '/usr/share/kde4/apps/kconf_update/kio_help.upd' for new updates
+2017-08-17T08:25:42 Checking update-file '/usr/share/kde4/apps/kconf_update/ksmserver.upd' for new updates
+2017-08-17T08:25:42 Checking update-file '/usr/share/kde4/apps/kconf_update/krdb.upd' for new updates
+2017-08-17T08:25:42 Checking update-file '/usr/share/kde4/apps/kconf_update/cervisia.upd' for new updates
+2017-08-17T08:25:42 cervisia.upd: Found new update 'kde3.2/20030118'
+2017-08-17T08:25:42 cervisia.upd: Skipping update 'kde3.2/20030118'
+2017-08-17T08:25:42 cervisia.upd: File 'cervisiapartrc' does not exist or empty, skipping
+2017-08-17T08:25:42 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_window_shortcuts.upd' for new updates
+2017-08-17T08:25:42 Checking update-file '/usr/share/kde4/apps/kconf_update/kate-2.4.upd' for new updates
+2017-08-17T08:25:42 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_fsp_workarounds_1.upd' for new updates
+2017-08-17T08:25:42 Checking update-file '/usr/share/kde4/apps/kconf_update/kded.upd' for new updates
+2017-08-17T08:25:42 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_on_off.upd' for new updates
+2017-08-17T08:25:42 Checking update-file '/usr/share/kde4/apps/kconf_update/kuriikwsfilter.upd' for new updates
+2017-08-17T08:25:42 Checking update-file '/usr/share/kde4/apps/kconf_update/kwiniconify.upd' for new updates
+2017-08-17T08:25:42 Checking update-file '/usr/share/kde4/apps/kconf_update/ksslcertificatemanager.upd' for new updates
+2017-08-17T08:25:42 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin.upd' for new updates
+2017-08-17T08:25:42 Checking update-file '/usr/share/kde4/apps/kconf_update/kwinupdatewindowsettings.upd' for new updates
+2017-08-17T08:25:42 Checking update-file '/usr/share/kde4/apps/kconf_update/kioslave.upd' for new updates
+2017-08-17T08:25:42 kioslave.upd: Found new update 'kde2.2/r1'
+2017-08-17T08:25:42 kioslave.upd: Skipping update 'kde2.2/r1'
+2017-08-17T08:25:42 kioslave.upd: File 'kioslaverc' does not exist or empty, skipping
+2017-08-17T08:25:42 Checking update-file '/usr/share/kde4/apps/kconf_update/kfmclient_3_2.upd' for new updates
+2017-08-17T08:25:42 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_focus1.upd' for new updates
+2017-08-17T08:25:42 Checking update-file '/usr/share/kde4/apps/kconf_update/plasma_popupapplet_fix_groups.upd' for new updates
+2017-08-17T08:25:42 Checking update-file '/usr/share/kde4/apps/kconf_update/mouse_cursor_theme.upd' for new updates
+2017-08-17T08:25:42 Checking update-file '/usr/share/kde4/apps/kconf_update/kaccel.upd' for new updates
+2017-08-17T08:25:42 Checking update-file '/usr/share/kde4/apps/kconf_update/plasma-add-shortcut-to-menu.upd' for new updates
+2017-08-17T08:25:42 plasma-add-shortcut-to-menu.upd: Found new update '4.1LauncherShortcut'
+2017-08-17T08:25:42 plasma-add-shortcut-to-menu.upd: !! Script 'plasma-add-shortcut-to-menu-update' not found in line 2 : 'Script=plasma-add-shortcut-to-menu-update'
+2017-08-17T08:25:42 Checking update-file '/usr/share/kde4/apps/kconf_update/kwinsticky.upd' for new updates
+2017-08-17T08:25:42 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin3_plugin.upd' for new updates
+2017-08-17T08:25:42 Checking update-file '/usr/share/kde4/apps/kconf_update/konqsidebartng.upd' for new updates
+2017-08-17T08:31:12 Checking update-file '/usr/share/kde4/apps/kconf_update/kaccel.upd' for new updates
+2017-08-17T08:31:12 Checking update-file '/usr/share/kde4/apps/kconf_update/ksslcertificatemanager.upd' for new updates
+2017-08-17T08:31:12 Checking update-file '/usr/share/kde4/apps/kconf_update/kcookiescfg.upd' for new updates
+2017-08-17T08:31:12 Checking update-file '/usr/share/kde4/apps/kconf_update/kwinupdatewindowsettings.upd' for new updates
+2017-08-17T08:31:12 Checking update-file '/usr/share/kde4/apps/kconf_update/devicepreference.upd' for new updates
+2017-08-17T08:31:12 Checking update-file '/usr/share/kde4/apps/kconf_update/kio_help.upd' for new updates
+2017-08-17T08:31:12 Checking update-file '/usr/share/kde4/apps/kconf_update/plasmarc-to-plasmadesktoprc.upd' for new updates
+2017-08-17T08:31:12 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_focus2.upd' for new updates
+2017-08-17T08:31:12 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_on_off.upd' for new updates
+2017-08-17T08:31:12 Checking update-file '/usr/share/kde4/apps/kconf_update/kfmclient_3_2.upd' for new updates
+2017-08-17T08:31:12 Checking update-file '/usr/share/kde4/apps/kconf_update/kuriikwsfilter.upd' for new updates
+2017-08-17T08:31:12 Checking update-file '/usr/share/kde4/apps/kconf_update/ksmserver.upd' for new updates
+2017-08-17T08:31:12 Checking update-file '/usr/share/kde4/apps/kconf_update/mailtransports.upd' for new updates
+2017-08-17T08:31:12 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin.upd' for new updates
+2017-08-17T08:31:13 Checking update-file '/usr/share/kde4/apps/kconf_update/kwinsticky.upd' for new updates
+2017-08-17T08:31:13 Checking update-file '/usr/share/kde4/apps/kconf_update/klipper-kconfigxt.upd' for new updates
+2017-08-17T08:31:13 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_fsp_workarounds_1.upd' for new updates
+2017-08-17T08:31:13 Checking update-file '/usr/share/kde4/apps/kconf_update/krdb.upd' for new updates
+2017-08-17T08:31:13 Checking update-file '/usr/share/kde4/apps/kconf_update/kded.upd' for new updates
+2017-08-17T08:31:13 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin3_plugin.upd' for new updates
+2017-08-17T08:31:13 Checking update-file '/usr/share/kde4/apps/kconf_update/plasma_popupapplet_fix_groups.upd' for new updates
+2017-08-17T08:31:13 Checking update-file '/usr/share/kde4/apps/kconf_update/kcmdisplayrc.upd' for new updates
+2017-08-17T08:31:13 Checking update-file '/usr/share/kde4/apps/kconf_update/plasma-add-shortcut-to-menu.upd' for new updates
+2017-08-17T08:31:13 plasma-add-shortcut-to-menu.upd: Found new update '4.1LauncherShortcut'
+2017-08-17T08:31:13 plasma-add-shortcut-to-menu.upd: !! Script 'plasma-add-shortcut-to-menu-update' not found in line 2 : 'Script=plasma-add-shortcut-to-menu-update'
+2017-08-17T08:31:13 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_window_shortcuts.upd' for new updates
+2017-08-17T08:31:13 Checking update-file '/usr/share/kde4/apps/kconf_update/konqsidebartng.upd' for new updates
+2017-08-17T08:31:13 Checking update-file '/usr/share/kde4/apps/kconf_update/kate-2.4.upd' for new updates
+2017-08-17T08:31:13 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_focus1.upd' for new updates
+2017-08-17T08:31:13 Checking update-file '/usr/share/kde4/apps/kconf_update/cervisia.upd' for new updates
+2017-08-17T08:31:13 cervisia.upd: Found new update 'kde3.2/20030118'
+2017-08-17T08:31:13 cervisia.upd: Skipping update 'kde3.2/20030118'
+2017-08-17T08:31:13 cervisia.upd: File 'cervisiapartrc' does not exist or empty, skipping
+2017-08-17T08:31:13 Checking update-file '/usr/share/kde4/apps/kconf_update/kwiniconify.upd' for new updates
+2017-08-17T08:31:13 Checking update-file '/usr/share/kde4/apps/kconf_update/kioslave.upd' for new updates
+2017-08-17T08:31:13 kioslave.upd: Found new update 'kde2.2/r1'
+2017-08-17T08:31:13 kioslave.upd: Skipping update 'kde2.2/r1'
+2017-08-17T08:31:13 kioslave.upd: File 'kioslaverc' does not exist or empty, skipping
+2017-08-17T08:31:13 Checking update-file '/usr/share/kde4/apps/kconf_update/mouse_cursor_theme.upd' for new updates
+2017-08-17T08:31:13 Checking update-file '/usr/share/kde4/apps/kconf_update/favicons.upd' for new updates
+2017-08-17T08:31:13 Checking update-file '/usr/share/kde4/apps/kconf_update/plasma-to-plasmadesktop-shortcuts.upd' for new updates
+2017-08-18T05:14:42 Checking update-file '/usr/share/kde4/apps/kconf_update/mailtransports.upd' for new updates
+2017-08-18T05:14:42 Checking update-file '/usr/share/kde4/apps/kconf_update/plasma-to-plasmadesktop-shortcuts.upd' for new updates
+2017-08-18T05:14:42 Checking update-file '/usr/share/kde4/apps/kconf_update/klipper-kconfigxt.upd' for new updates
+2017-08-18T05:14:42 Checking update-file '/usr/share/kde4/apps/kconf_update/kcmdisplayrc.upd' for new updates
+2017-08-18T05:14:42 Checking update-file '/usr/share/kde4/apps/kconf_update/devicepreference.upd' for new updates
+2017-08-18T05:14:42 Checking update-file '/usr/share/kde4/apps/kconf_update/favicons.upd' for new updates
+2017-08-18T05:14:42 Checking update-file '/usr/share/kde4/apps/kconf_update/plasmarc-to-plasmadesktoprc.upd' for new updates
+2017-08-18T05:14:43 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_focus2.upd' for new updates
+2017-08-18T05:14:43 Checking update-file '/usr/share/kde4/apps/kconf_update/kcookiescfg.upd' for new updates
+2017-08-18T05:14:43 Checking update-file '/usr/share/kde4/apps/kconf_update/kio_help.upd' for new updates
+2017-08-18T05:14:43 Checking update-file '/usr/share/kde4/apps/kconf_update/ksmserver.upd' for new updates
+2017-08-18T05:14:43 Checking update-file '/usr/share/kde4/apps/kconf_update/krdb.upd' for new updates
+2017-08-18T05:14:43 Checking update-file '/usr/share/kde4/apps/kconf_update/cervisia.upd' for new updates
+2017-08-18T05:14:43 cervisia.upd: Found new update 'kde3.2/20030118'
+2017-08-18T05:14:43 cervisia.upd: Skipping update 'kde3.2/20030118'
+2017-08-18T05:14:43 cervisia.upd: File 'cervisiapartrc' does not exist or empty, skipping
+2017-08-18T05:14:43 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_window_shortcuts.upd' for new updates
+2017-08-18T05:14:43 Checking update-file '/usr/share/kde4/apps/kconf_update/kate-2.4.upd' for new updates
+2017-08-18T05:14:43 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_fsp_workarounds_1.upd' for new updates
+2017-08-18T05:14:43 Checking update-file '/usr/share/kde4/apps/kconf_update/kded.upd' for new updates
+2017-08-18T05:14:43 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_on_off.upd' for new updates
+2017-08-18T05:14:43 Checking update-file '/usr/share/kde4/apps/kconf_update/kuriikwsfilter.upd' for new updates
+2017-08-18T05:14:43 Checking update-file '/usr/share/kde4/apps/kconf_update/kwiniconify.upd' for new updates
+2017-08-18T05:14:43 Checking update-file '/usr/share/kde4/apps/kconf_update/ksslcertificatemanager.upd' for new updates
+2017-08-18T05:14:43 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin.upd' for new updates
+2017-08-18T05:14:43 Checking update-file '/usr/share/kde4/apps/kconf_update/kwinupdatewindowsettings.upd' for new updates
+2017-08-18T05:14:43 Checking update-file '/usr/share/kde4/apps/kconf_update/kioslave.upd' for new updates
+2017-08-18T05:14:43 kioslave.upd: Found new update 'kde2.2/r1'
+2017-08-18T05:14:43 kioslave.upd: Skipping update 'kde2.2/r1'
+2017-08-18T05:14:43 kioslave.upd: File 'kioslaverc' does not exist or empty, skipping
+2017-08-18T05:14:43 Checking update-file '/usr/share/kde4/apps/kconf_update/kfmclient_3_2.upd' for new updates
+2017-08-18T05:14:43 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_focus1.upd' for new updates
+2017-08-18T05:14:43 Checking update-file '/usr/share/kde4/apps/kconf_update/plasma_popupapplet_fix_groups.upd' for new updates
+2017-08-18T05:14:43 Checking update-file '/usr/share/kde4/apps/kconf_update/mouse_cursor_theme.upd' for new updates
+2017-08-18T05:14:43 Checking update-file '/usr/share/kde4/apps/kconf_update/kaccel.upd' for new updates
+2017-08-18T05:14:43 Checking update-file '/usr/share/kde4/apps/kconf_update/plasma-add-shortcut-to-menu.upd' for new updates
+2017-08-18T05:14:43 plasma-add-shortcut-to-menu.upd: Found new update '4.1LauncherShortcut'
+2017-08-18T05:14:43 plasma-add-shortcut-to-menu.upd: !! Script 'plasma-add-shortcut-to-menu-update' not found in line 2 : 'Script=plasma-add-shortcut-to-menu-update'
+2017-08-18T05:14:43 Checking update-file '/usr/share/kde4/apps/kconf_update/kwinsticky.upd' for new updates
+2017-08-18T05:14:43 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin3_plugin.upd' for new updates
+2017-08-18T05:14:43 Checking update-file '/usr/share/kde4/apps/kconf_update/konqsidebartng.upd' for new updates
+2017-08-18T05:28:08 Checking update-file '/usr/share/kde4/apps/kconf_update/kaccel.upd' for new updates
+2017-08-18T05:28:08 Checking update-file '/usr/share/kde4/apps/kconf_update/ksslcertificatemanager.upd' for new updates
+2017-08-18T05:28:08 Checking update-file '/usr/share/kde4/apps/kconf_update/kcookiescfg.upd' for new updates
+2017-08-18T05:28:08 Checking update-file '/usr/share/kde4/apps/kconf_update/kwinupdatewindowsettings.upd' for new updates
+2017-08-18T05:28:08 Checking update-file '/usr/share/kde4/apps/kconf_update/devicepreference.upd' for new updates
+2017-08-18T05:28:08 Checking update-file '/usr/share/kde4/apps/kconf_update/kio_help.upd' for new updates
+2017-08-18T05:28:08 Checking update-file '/usr/share/kde4/apps/kconf_update/plasmarc-to-plasmadesktoprc.upd' for new updates
+2017-08-18T05:28:08 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_focus2.upd' for new updates
+2017-08-18T05:28:08 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_on_off.upd' for new updates
+2017-08-18T05:28:08 Checking update-file '/usr/share/kde4/apps/kconf_update/kfmclient_3_2.upd' for new updates
+2017-08-18T05:28:08 Checking update-file '/usr/share/kde4/apps/kconf_update/kuriikwsfilter.upd' for new updates
+2017-08-18T05:28:08 Checking update-file '/usr/share/kde4/apps/kconf_update/ksmserver.upd' for new updates
+2017-08-18T05:28:08 Checking update-file '/usr/share/kde4/apps/kconf_update/mailtransports.upd' for new updates
+2017-08-18T05:28:08 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin.upd' for new updates
+2017-08-18T05:28:09 Checking update-file '/usr/share/kde4/apps/kconf_update/kwinsticky.upd' for new updates
+2017-08-18T05:28:09 Checking update-file '/usr/share/kde4/apps/kconf_update/klipper-kconfigxt.upd' for new updates
+2017-08-18T05:28:09 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_fsp_workarounds_1.upd' for new updates
+2017-08-18T05:28:09 Checking update-file '/usr/share/kde4/apps/kconf_update/krdb.upd' for new updates
+2017-08-18T05:28:09 Checking update-file '/usr/share/kde4/apps/kconf_update/kded.upd' for new updates
+2017-08-18T05:28:09 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin3_plugin.upd' for new updates
+2017-08-18T05:28:09 Checking update-file '/usr/share/kde4/apps/kconf_update/plasma_popupapplet_fix_groups.upd' for new updates
+2017-08-18T05:28:09 Checking update-file '/usr/share/kde4/apps/kconf_update/kcmdisplayrc.upd' for new updates
+2017-08-18T05:28:09 Checking update-file '/usr/share/kde4/apps/kconf_update/plasma-add-shortcut-to-menu.upd' for new updates
+2017-08-18T05:28:09 plasma-add-shortcut-to-menu.upd: Found new update '4.1LauncherShortcut'
+2017-08-18T05:28:09 plasma-add-shortcut-to-menu.upd: !! Script 'plasma-add-shortcut-to-menu-update' not found in line 2 : 'Script=plasma-add-shortcut-to-menu-update'
+2017-08-18T05:28:09 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_window_shortcuts.upd' for new updates
+2017-08-18T05:28:09 Checking update-file '/usr/share/kde4/apps/kconf_update/konqsidebartng.upd' for new updates
+2017-08-18T05:28:09 Checking update-file '/usr/share/kde4/apps/kconf_update/kate-2.4.upd' for new updates
+2017-08-18T05:28:09 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_focus1.upd' for new updates
+2017-08-18T05:28:09 Checking update-file '/usr/share/kde4/apps/kconf_update/cervisia.upd' for new updates
+2017-08-18T05:28:09 cervisia.upd: Found new update 'kde3.2/20030118'
+2017-08-18T05:28:09 cervisia.upd: Skipping update 'kde3.2/20030118'
+2017-08-18T05:28:09 cervisia.upd: File 'cervisiapartrc' does not exist or empty, skipping
+2017-08-18T05:28:09 Checking update-file '/usr/share/kde4/apps/kconf_update/kwiniconify.upd' for new updates
+2017-08-18T05:28:09 Checking update-file '/usr/share/kde4/apps/kconf_update/kioslave.upd' for new updates
+2017-08-18T05:28:09 kioslave.upd: Found new update 'kde2.2/r1'
+2017-08-18T05:28:09 kioslave.upd: Skipping update 'kde2.2/r1'
+2017-08-18T05:28:09 kioslave.upd: File 'kioslaverc' does not exist or empty, skipping
+2017-08-18T05:28:09 Checking update-file '/usr/share/kde4/apps/kconf_update/mouse_cursor_theme.upd' for new updates
+2017-08-18T05:28:09 Checking update-file '/usr/share/kde4/apps/kconf_update/favicons.upd' for new updates
+2017-08-18T05:28:09 Checking update-file '/usr/share/kde4/apps/kconf_update/plasma-to-plasmadesktop-shortcuts.upd' for new updates

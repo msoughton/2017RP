@@ -1,0 +1,131 @@
+_XSERVTransmkdir: Owner of /tmp/.X11-unix should be set to root
+
+Xvnc TigerVNC 1.1.0 - built Mar 22 2017 15:56:21
+Copyright (C) 1999-2011 TigerVNC Team and many others (see README.txt)
+See http://www.tigervnc.org for information on TigerVNC.
+Underlying X server release 11704000, The X.Org Foundation
+
+
+Tue Jul 11 11:01:06 2017
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on all interface(s), port 5901
+ vncext:      created VNC server for screen 0
+starting kde
+startkde: Starting up...
+Connecting to deprecated signal QDBusConnectionInterface::serviceOwnerChanged(QString,QString,QString)
+kbuildsycoca4 running...
+Connecting to deprecated signal QDBusConnectionInterface::serviceOwnerChanged(QString,QString,QString)
+QDBusObjectPath: invalid path ""
+X Error: XSyncBadAlarm 135
+  Extension:    134 (Uknown extension)
+  Minor opcode: 11 (Unknown request)
+  Resource id:  0x3c
+X Error: XSyncBadAlarm 135
+  Extension:    134 (Uknown extension)
+  Minor opcode: 11 (Unknown request)
+  Resource id:  0x3c
+QDBusConnection: name 'org.kde.kglobalaccel' had owner '' but we thought it was ':1.5'
+<unknown program name>(19083)/ KStartupInfo::createNewStartupId: creating:  "dunegpvm01.fnal.gov;1499788871;44898;19083_TIME0" : "unnamed app"
+kephald starting up 
+XRANDR error base:  145 
+RRInput mask is set!! 
+RandRScreen::loadSettings - adding mode:  973 1920 x 1200 
+RandRScreen::loadSettings - adding mode:  974 1920 x 1080 
+RandRScreen::loadSettings - adding mode:  975 1600 x 1200 
+RandRScreen::loadSettings - adding mode:  976 1680 x 1050 
+RandRScreen::loadSettings - adding mode:  977 1400 x 1050 
+RandRScreen::loadSettings - adding mode:  978 1360 x 768 
+RandRScreen::loadSettings - adding mode:  979 1280 x 1024 
+RandRScreen::loadSettings - adding mode:  980 1280 x 960 
+RandRScreen::loadSettings - adding mode:  981 1280 x 800 
+RandRScreen::loadSettings - adding mode:  982 1280 x 720 
+RandRScreen::loadSettings - adding mode:  983 1024 x 768 
+RandRScreen::loadSettings - adding mode:  984 800 x 600 
+RandRScreen::loadSettings - adding mode:  985 640 x 480 
+RandRScreen::loadSettings - adding mode:  986 900 x 950 
+RandRScreen::loadSettings - adding crtc:  971 
+RandRScreen::loadSettings - adding output:  972 
+Setting CRTC 971 on output "default" (previous 0 ) 
+CRTC outputs: (972) 
+Output name: "default" 
+Output refresh rate: 60 
+Output rect: QRect(0,0 900x950) 
+Output rotation: 1 
+XRandROutputs::init 
+  added output  972 
+adding an output 0 with geom:  QRect(0,0 900x950) 
+output: "SCREEN-0" QRect(0,0 900x950) 1952543855 true true 
+load xml 
+connected: 1 
+looking for current "SCREEN-0" 
+known "*" has score: 0.125 
+screen: 0 QRect(0,0 900x950) 
+looking for a matching configuration... 
+connected: 1 
+looking for current "SCREEN-0" 
+known "*" has score: 0.125 
+found outputs, known: false 
+activate external configuration!! 
+registered the service: true 
+screens registered on the bus: true 
+outputs registered on the bus: true 
+configurations registered on the bus: true 
+Connecting to deprecated signal QDBusConnectionInterface::serviceOwnerChanged(QString,QString,QString)
+Connecting to deprecated signal QDBusConnectionInterface::serviceOwnerChanged(QString,QString,QString)
+QDBusObjectPath: invalid path ""
+Connecting to deprecated signal QDBusConnectionInterface::serviceOwnerChanged(QString,QString,QString)
+QFont::setPointSize: Point size <= 0 (0), must be greater than 0
+QLayout: Attempting to add QLayout "" to QWidget "", which already has a layout
+QGraphicsLinearLayout::removeAt: invalid index 0
+QGraphicsLinearLayout::removeAt: invalid index 0
+Object::connect: No such slot TaskManager::GroupManager::taskDestroyed(QObject*)
+Object::connect: No such slot TaskManager::GroupManager::taskDestroyed(QObject*)
+Object::connect: No such signal SystemTray::Manager::jobStateChanged(SystemTray::Job*)
+Invalid D-BUS interface name 'org.kde.plasma-desktop.PlasmaApp' found while parsing introspection
+<unknown program name>(19111)/ kdemain: Xlib XKB extension major= 1  minor= 0
+Connecting to deprecated signal QDBusConnectionInterface::serviceOwnerChanged(QString,QString,QString)
+Object::connect: No such slot TaskManager::GroupManager::taskDestroyed(QObject*)
+"/usr/bin/krunner(19119)" Error in thread 139630832420928 : "org.freedesktop.DBus.Error.ServiceUnknown - The name org.kde.nepomuk.services.nepomukstorage was not provided by any .service files"
+"/usr/bin/krunner(19119)" Error in thread 139630832420928 : "QLocalSocket::connectToServer: Invalid name"
+Object::connect: No such slot TaskManager::GroupManager::taskDestroyed(QObject*)
+
+(polkit-gnome-authentication-agent-1:19125): polkit-gnome-1-WARNING **: Unable to determine the session we are in: Remote Exception invoking org.freedesktop.ConsoleKit.Manager.GetSessionForUnixProcess() on /org/freedesktop/ConsoleKit/Manager at name org.freedesktop.ConsoleKit: org.freedesktop.ConsoleKit.Manager.GeneralError: Unable to lookup session information for process '19125' org.freedesktop.ConsoleKit.Manager.GeneralError Unable%20to%20lookup%20session%20information%20for%20process%20%2719125%27
+
+(krb5-auth-dialog:19128): GLib-GObject-CRITICAL **: Object class GtkSecureEntry doesn't implement property 'editing-canceled' from interface 'GtkCellEditable'
+QDBusObjectPath: invalid path ""
+Connecting to deprecated signal QDBusConnectionInterface::serviceOwnerChanged(QString,QString,QString)
+"Warning: You do not seem to have the package gstreamer0.10-plugins-good installed.
+          Some video features have been disabled." 
+Object::connect: No such slot TaskManager::GroupManager::taskDestroyed(QObject*)
+Object::connect: No such slot TaskManager::GroupManager::taskDestroyed(QObject*)
+Object::connect: No such slot TaskManager::GroupManager::taskDestroyed(QObject*)
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":1"
+      after 174 requests (174 known processed) with 0 events remaining.
+krunner: Fatal IO error: client killed
+knotify4: Fatal IO error: client killed
+kded4: Fatal IO error: client killed
+kdeinit4: Fatal IO error: client killed
+kdeinit4: sending SIGHUP to children.
+klauncher: Exiting on signal 1
+kglobalaccel: Fatal IO error: client killed
+XIO:  fatal IO error 4 (Interrupted system call) on X server ":1"
+      after 21 requests (21 known processed) with 1 events remaining.
+xterm:  fatal IO error 11 (Resource temporarily unavailable) or KillClient on X server ":1"
+xterm:  fatal IO error 11 (Resource temporarily unavailable) or KillClient on X server ":1"
+kwin: Fatal IO error: client killed
+ksmserver: Fatal IO error: client killed
+kdeinit4: sending SIGTERM to children.
+kdeinit4: Exit.
+Connection lost to X server `:1'
+Connection lost to X server `:1'
+Unexpected response from KInit (response = 7594040314662252334).
+startkde: Could not start ksmserver. Check your installation.
+Error: Can't open display: :1
+Could not connect to D-Bus server: org.freedesktop.DBus.Error.NoServer: Failed to connect to socket /tmp/dbus-RydZGcBUuG: Connection refused
+startkde: Shutting down...
+kdeinit4_wrapper: Warning: connect(/nashome/s/soughton/.kde/socket-dunegpvm01.fnal.gov/kdeinit4__1) failed: : No such file or directory
+Error: Can not contact kdeinit4!
+startkde: Running shutdown scripts...
+xprop:  unable to open display ':1'
+xprop:  unable to open display ':1'
+startkde: Done.

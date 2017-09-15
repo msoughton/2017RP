@@ -1,0 +1,35 @@
+[1]
+ActiveTabIndex=1
+Sessions=1
+
+[2]
+ActiveTabIndex=1
+Sessions=2
+
+[Number]
+NumberOfSessions=2
+NumberOfWindows=2
+
+[Session1]
+LocalTab=%d : %n
+RemoteTab=%h : %u
+WorkingDir[$e]=/dune/app/users/soughton/LArSOFTtest/srcs/dunetpc/dune/SupernovaAna
+
+[Session2]
+LocalTab=%d : %n
+RemoteTab=%h : %u
+WorkingDir[$e]=/dune/app/users/soughton/results
+
+[WindowProperties1]
+ClassName=Konsole::MainWindow
+Height 950=808
+ObjectName=MainWindow#1
+State=AAAA/wAAAAD9AAAAAAAAAsgAAAMSAAAABAAAAAQAAAAIAAAACPwAAAAA
+Width 1800=712
+
+[WindowProperties2]
+ClassName=Konsole::MainWindow
+Height 950=808
+ObjectName=MainWindow#2
+State=AAAA/wAAAAD9AAAAAAAAA2AAAAMSAAAABAAAAAQAAAAIAAAACPwAAAAA
+Width 1800=864

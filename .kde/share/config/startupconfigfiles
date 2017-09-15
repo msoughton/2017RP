@@ -1,0 +1,55 @@
+kcminputrc Mouse cursorTheme 'Oxygen_Black'
+/nashome/s/soughton/.kde/share/config/kcminputrc
+/usr/share/kde-settings/kde-profile/default/share/config/kcminputrc
+!/usr/share/config/kcminputrc
+*
+kcminputrc Mouse cursorSize ''
+/nashome/s/soughton/.kde/share/config/kcminputrc
+/usr/share/kde-settings/kde-profile/default/share/config/kcminputrc
+!/usr/share/config/kcminputrc
+*
+ksplashrc KSplash Theme RHEL6
+!/nashome/s/soughton/.kde/share/config/ksplashrc
+/usr/share/kde-settings/kde-profile/default/share/config/ksplashrc
+!/usr/share/config/ksplashrc
+*
+ksplashrc KSplash Engine KSplashX
+!/nashome/s/soughton/.kde/share/config/ksplashrc
+/usr/share/kde-settings/kde-profile/default/share/config/ksplashrc
+!/usr/share/config/ksplashrc
+*
+kcmrandrrc Display ApplyOnStartup false
+!/nashome/s/soughton/.kde/share/config/kcmrandrrc
+!/usr/share/kde-settings/kde-profile/default/share/config/kcmrandrrc
+!/usr/share/config/kcmrandrrc
+*
+kcmrandrrc [Screen0]
+!/nashome/s/soughton/.kde/share/config/kcmrandrrc
+!/usr/share/kde-settings/kde-profile/default/share/config/kcmrandrrc
+!/usr/share/config/kcmrandrrc
+*
+kcmrandrrc [Screen1]
+!/nashome/s/soughton/.kde/share/config/kcmrandrrc
+!/usr/share/kde-settings/kde-profile/default/share/config/kcmrandrrc
+!/usr/share/config/kcmrandrrc
+*
+kcmrandrrc [Screen2]
+!/nashome/s/soughton/.kde/share/config/kcmrandrrc
+!/usr/share/kde-settings/kde-profile/default/share/config/kcmrandrrc
+!/usr/share/config/kcmrandrrc
+*
+kcmrandrrc [Screen3]
+!/nashome/s/soughton/.kde/share/config/kcmrandrrc
+!/usr/share/kde-settings/kde-profile/default/share/config/kcmrandrrc
+!/usr/share/config/kcmrandrrc
+*
+kcmfonts General forceFontDPI 0
+!/nashome/s/soughton/.kde/share/config/kcmfonts
+!/usr/share/kde-settings/kde-profile/default/share/config/kcmfonts
+!/usr/share/config/kcmfonts
+*
+kdeglobals Locale Language '' # trigger requesting languages from KLocale
+/nashome/s/soughton/.kde/share/config/kdeglobals
+/usr/share/kde-settings/kde-profile/default/share/config/kdeglobals
+!/usr/share/config/kdeglobals
+*

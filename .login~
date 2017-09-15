@@ -1,0 +1,53 @@
+# First source this file using source .login
+# if not already sourced on login
+
+#=======Get bash to show directory=======
+
+#echo "Sourcing .login"
+export PS1='\w/$ '
+
+#=============EMACS Shortcut=============
+
+alias e='emacs -nw'
+alias egui='emacs' # there is no point to this but it shows how an alias works
+alias root='root -l'
+
+# Creating a shortcut to program executable
+#alias egui=/usr/bin/emacs 
+
+#export LAR_VERSION=v06_43_00
+
+if [[ $LAR_VERSION != *v06* ]]; then
+    
+    echo "Exporting larsoft version as v06_43_00"
+    export LAR_VERSION=v06_43_00
+fi
+x
+#===============DUNE Setup=============== 
+
+function dune_init {
+    echo ""
+    echo "Sourcing generic DUNE startup scripts"
+    source /grid/fermiapp/products/dune/setup_dune.sh
+    echo ""
+    export APP="/dune/app/users/soughton/"
+    cd $APP
+    export SUPERNOVA="$APP"larsoft_"$LAR_VERSION"/srcs/dunetpc/dune/SupernovaAna
+}
+
+#=============LArSOFT Setup============== 
+   
+function larsoft_init {
+    echo ""
+    echo "Sourcing generic LArSOFT scripts"
+    echo ""
+    echo "version:" "$LAR_VERSION"
+    source /dune/app/users/soughton/larsoft_"$LAR_VERSION"/localProducts_larsoft_"$LAR_VERSION"_debug_e14/setup
+    cd "$APP"larsoft_"$LAR_VERSION"
+    mrbslp
+    cd ..
+    echo ""
+    echo "sourced local products using mrbslp"
+    echo ""
+   
+}

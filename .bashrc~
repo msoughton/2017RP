@@ -1,0 +1,3 @@
+#####
+#Make sure window resizing doesn't break things
+shopt -s checkwinsize
